@@ -1,0 +1,7 @@
+<map id="DFL::Mdib::SubdividedMdibObserver" name="DFL::Mdib::SubdividedMdibObserver">
+<area shape="rect" id="node1" title="Interface to register for MDIB changes of MdibAccess subject." alt="" coords="367,5,578,200"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_test_1_1_waiting_mdib_changes_observer.html" title="MDIB changes observer with blocking waiting functionality." alt="" coords="5,277,217,619"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_biceps_xml_1_1_mdib_changes_serializer.html" title="Converts Mdib change notifications into serialized BICEPS reports." alt="" coords="242,343,453,553"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_sdc_1_1_impl_1_1_mdib_access_impl_common.html" title="Common part for S31&#39;s wrapping of local and remote MdibAccess." alt="" coords="477,248,719,648"/>
+<area shape="rect" id="node5" href="$class_s31_1_1_sdc_1_1_impl_1_1_meta_data_changes_observer.html" title=" " alt="" coords="743,336,954,560"/>
+</map>

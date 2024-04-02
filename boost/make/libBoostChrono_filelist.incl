@@ -1,0 +1,8 @@
+BOOST_CHRONO_SRC_DIR = $(boost_DIR)/libs/chrono/src
+
+# SOURCE_LIST
+BOOST_CHRONO_SRC	 = $(addprefix $(BOOST_CHRONO_SRC_DIR)/, \
+	chrono.cpp \
+	process_cpu_clocks.cpp \
+	thread_clock.cpp \
+)

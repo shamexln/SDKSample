@@ -1,0 +1,7 @@
+<map id="Framework/Config/Public/WindowsProxy.h" name="Framework/Config/Public/WindowsProxy.h">
+<area shape="rect" id="node1" title="A proxy header file to be used instead of &lt;Windows.h&gt;." alt="" coords="331,5,497,47"/>
+<area shape="rect" id="node2" href="$_thread_pool_8h_source.html" title=" " alt="" coords="5,95,180,151"/>
+<area shape="rect" id="node3" href="$_windows_event_log_8h_source.html" title=" " alt="" coords="205,102,405,143"/>
+<area shape="rect" id="node4" href="$_auto_reset_event_impl_win32_8h_source.html" title=" " alt="" coords="429,102,620,143"/>
+<area shape="rect" id="node5" href="$_semaphore_impl_win32_8h_source.html" title=" " alt="" coords="644,102,816,143"/>
+</map>

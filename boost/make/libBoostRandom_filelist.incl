@@ -1,0 +1,6 @@
+BOOST_RANDOM_SRC_DIR = $(boost_DIR)/libs/random/src
+
+# SOURCE_LIST
+BOOST_RANDOM_SRC	 = $(addprefix $(BOOST_RANDOM_SRC_DIR)/, \
+	random_device.cpp \
+	)

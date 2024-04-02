@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::DsoapDeviceTransactionFactory" name="S31::Sdc::Impl::DsoapDeviceTransactionFactory">
+<area shape="rect" id="node1" title="Web service specific implementation of S31::SetService::DeviceTransactionFactory." alt="" coords="5,160,233,311"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_set_service_1_1_device_transaction_factory.html" title="Interface definition of factory to create DeviceTransaction instances." alt="" coords="5,5,233,112"/>
+</map>

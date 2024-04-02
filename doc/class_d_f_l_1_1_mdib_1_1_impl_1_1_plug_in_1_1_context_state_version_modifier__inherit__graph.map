@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::Impl::PlugIn::ContextStateVersionModifier" name="DFL::Mdib::Impl::PlugIn::ContextStateVersionModifier">
+<area shape="rect" id="node1" title="Handles ContextStates descriptor versioning for changes in ContextDescriptor." alt="" coords="5,204,225,311"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_plug_in_1_1_modifier.html" title="Base class for MdibChangeSet modify operations." alt="" coords="5,5,225,156"/>
+</map>

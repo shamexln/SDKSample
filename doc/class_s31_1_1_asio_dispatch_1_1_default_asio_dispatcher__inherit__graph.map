@@ -1,0 +1,4 @@
+<map id="S31::AsioDispatch::DefaultAsioDispatcher" name="S31::AsioDispatch::DefaultAsioDispatcher">
+<area shape="rect" id="node1" title="Implementation of a dispatcher using standard threads." alt="" coords="5,263,184,487"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_asio_dispatch_1_1_executor_provider.html" title="Interface to provide executors which are run by AsioDispatch." alt="" coords="19,5,170,215"/>
+</map>

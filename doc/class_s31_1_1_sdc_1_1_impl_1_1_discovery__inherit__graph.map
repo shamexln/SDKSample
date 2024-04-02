@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::Discovery" name="S31::Sdc::Impl::Discovery">
+<area shape="rect" id="node1" title="WS&#45;Discovery client implementation of S31::Sdc::Impl::IDiscoveryClient." alt="" coords="5,380,193,677"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_i_discovery_client.html" title="WS&#45;Discovery client function: hello/bye, probe, resolve (directed)" alt="" coords="12,5,187,332"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::Gsoap::ParticipantBaseMapper" name="S31::Sdc::Impl::Gsoap::ParticipantBaseMapper">
+<area shape="rect" id="node1" title="Maps all base classes from the BICEPS participant model." alt="" coords="5,5,239,317"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_gsoap_1_1_participant_mapper.html" title="Combines mapping functions from the specific participant mappers." alt="" coords="39,365,205,604"/>
+</map>

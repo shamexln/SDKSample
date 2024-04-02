@@ -1,0 +1,4 @@
+<map id="DFL::Component::Kind" name="DFL::Component::Kind">
+<area shape="rect" id="node1" title="Holds the value of a component kind." alt="" coords="22,5,177,141"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_component_1_1_static_kind.html" title="Checks range of component kind value at compile time." alt="" coords="5,189,193,281"/>
+</map>

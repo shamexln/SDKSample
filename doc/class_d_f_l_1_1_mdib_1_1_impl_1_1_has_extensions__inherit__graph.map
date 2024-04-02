@@ -1,0 +1,29 @@
+<map id="DFL::Mdib::Impl::HasExtensions" name="DFL::Mdib::Impl::HasExtensions">
+<area shape="rect" id="node1" title="Base type for supporting the BICEPS extension model." alt="" coords="2665,5,2875,200"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_abstract_alert_state.html" title="Acts as a base class for all alert states that contain dynamic/volatile alert meta information." alt="" coords="5,343,172,479"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_abstract_descriptor.html" title="Defines foundational meta information of any object that is included in the descriptive part of the M..." alt="" coords="196,336,395,487"/>
+<area shape="rect" id="node4" href="$class_d_f_l_1_1_mdib_1_1_abstract_device_component_state.html" title="State of a component that is part of an Mds." alt="" coords="419,263,644,560"/>
+<area shape="rect" id="node5" href="$class_d_f_l_1_1_mdib_1_1_abstract_metric_state.html" title="An abstract state for a metric." alt="" coords="668,277,867,545"/>
+<area shape="rect" id="node6" href="$class_d_f_l_1_1_mdib_1_1_abstract_metric_value.html" title="Abstract value of a metric." alt="" coords="891,285,1065,538"/>
+<area shape="rect" id="node7" href="$class_d_f_l_1_1_mdib_1_1_abstract_multi_state.html" title="Possesses a handle name that uniquely identifies the state, which is required if the relation to a de..." alt="" coords="1089,343,1256,479"/>
+<area shape="rect" id="node8" href="$class_d_f_l_1_1_mdib_1_1_abstract_operation_descriptor.html" title="Abstract description of an operation that is exposed on the Sco." alt="" coords="1281,263,1486,560"/>
+<area shape="rect" id="node9" href="$class_d_f_l_1_1_mdib_1_1_abstract_operation_state.html" title="State of an operation that is exposed on the Sco." alt="" coords="1510,351,1705,472"/>
+<area shape="rect" id="node10" href="$class_d_f_l_1_1_mdib_1_1_base_demographics.html" title="Definition of basic demographic information." alt="" coords="1729,263,1931,560"/>
+<area shape="rect" id="node11" href="$class_d_f_l_1_1_mdib_1_1_calibration_info.html" title="Provides information in terms of component calibration." alt="" coords="1956,314,2160,509"/>
+<area shape="rect" id="node12" href="$class_d_f_l_1_1_mdib_1_1_cause_info.html" title="Information about possible causes if an AlertCondition is present." alt="" coords="2185,343,2331,479"/>
+<area shape="rect" id="node13" href="$class_d_f_l_1_1_mdib_1_1_coded_value.html" title="Code to identify the concept (semantic) of an object." alt="" coords="2356,270,2520,553"/>
+<area shape="rect" id="node14" href="$class_d_f_l_1_1_mdib_1_1_coded_value_translation.html" title="CodedValueTranslation is used to model translations of a coded value of BICEPS." alt="" coords="2544,329,2767,494"/>
+<area shape="rect" id="node15" href="$class_d_f_l_1_1_mdib_1_1_instance_identifier.html" title="Represents an InstanceIdentifier from BICEPS to identify arbitrary things or objects." alt="" coords="2791,248,2978,575"/>
+<area shape="rect" id="node16" href="$class_d_f_l_1_1_mdib_1_1_location_detail.html" title="Contains detailed information about a location in contrast to identifiers for identification purposes..." alt="" coords="3003,248,3175,575"/>
+<area shape="rect" id="node17" href="$class_d_f_l_1_1_mdib_1_1_measurement.html" title="Describes a measurement for stateful object attributes that do not have a reference to a descriptor o..." alt="" coords="3199,351,3368,472"/>
+<area shape="rect" id="node18" href="$class_d_f_l_1_1_mdib_1_1_meta_data.html" title="Class to store Mds meta data." alt="" coords="3393,255,3539,567"/>
+<area shape="rect" id="node19" href="$class_d_f_l_1_1_mdib_1_1_metric_quality.html" title="The quality state of the determined value of a metric." alt="" coords="3564,321,3731,501"/>
+<area shape="rect" id="node20" href="$class_d_f_l_1_1_mdib_1_1_operation_group.html" title="Defines groups of operations in order to allow clinical grouping and prioritization of operations." alt="" coords="3755,336,3937,487"/>
+<area shape="rect" id="node21" href="$class_d_f_l_1_1_mdib_1_1_person_reference.html" title="A reference to an identifiable person with a name." alt="" coords="3961,343,4150,479"/>
+<area shape="rect" id="node22" href="$class_d_f_l_1_1_mdib_1_1_physical_connector_info.html" title="Defines a number in order to allow to guide the clinical user for failure." alt="" coords="4174,343,4393,479"/>
+<area shape="rect" id="node23" href="$class_d_f_l_1_1_mdib_1_1_range.html" title="Container for a range." alt="" coords="4417,285,4569,538"/>
+<area shape="rect" id="node24" href="$class_d_f_l_1_1_mdib_1_1_relation.html" title="Allows the modeling of relationships between a metric and other containment tree entries." alt="" coords="4593,321,4731,501"/>
+<area shape="rect" id="node25" href="$class_d_f_l_1_1_mdib_1_1_remedy_info.html" title="Information on how to remedy an AlertCondition." alt="" coords="4755,365,4913,457"/>
+<area shape="rect" id="node26" href="$class_d_f_l_1_1_mdib_1_1_system_context_state.html" title="Dynamic part of a SystemContext." alt="" coords="4937,351,5117,472"/>
+<area shape="rect" id="node27" href="$class_d_f_l_1_1_mdib_1_1_udi.html" title="UDI fragments as defined by the FDA." alt="" coords="5142,299,5313,523"/>
+</map>

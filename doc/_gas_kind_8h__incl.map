@@ -1,0 +1,4 @@
+<map id="Framework/Utils/Public/GasKind.h" name="Framework/Utils/Public/GasKind.h">
+<area shape="rect" id="node1" title="Declares and defines typesafe gas kind enum values by using the DFL_TYPESAFE_ENUM macro from Typesafe..." alt="" coords="5,5,161,47"/>
+<area shape="rect" id="node2" href="$_typesafe_enum_8h.html" title="DEPRECATED &#45; Define enums in a typesafe way." alt="" coords="5,95,161,136"/>
+</map>

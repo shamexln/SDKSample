@@ -1,0 +1,4 @@
+<map id="S31::AsioDispatch::Test::DummyExecutorProvider" name="S31::AsioDispatch::Test::DummyExecutorProvider">
+<area shape="rect" id="node1" title="This class provides a test placeholder for an actual asio dispatcher." alt="" coords="5,263,204,399"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_asio_dispatch_1_1_executor_provider.html" title="Interface to provide executors which are run by AsioDispatch." alt="" coords="29,5,180,215"/>
+</map>

@@ -1,0 +1,13 @@
+BOOST_FILESYSTEM_SRC_DIR = $(boost_DIR)/libs/filesystem/src
+
+# SOURCE_LIST
+BOOST_FILESYSTEM_SRC	 = $(addprefix $(BOOST_FILESYSTEM_SRC_DIR)/, \
+	codecvt_error_category.cpp \
+	operations.cpp \
+	path.cpp \
+	path_traits.cpp \
+	portability.cpp \
+	unique_path.cpp \
+	utf8_codecvt_facet.cpp \
+	windows_file_codecvt.cpp \
+)

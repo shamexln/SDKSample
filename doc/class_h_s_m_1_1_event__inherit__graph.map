@@ -1,0 +1,4 @@
+<map id="HSM::Event" name="HSM::Event">
+<area shape="rect" id="node1" title="Event class that contains the basic data necessary to send events through ports." alt="" coords="19,307,139,413"/>
+<area shape="rect" id="node2" href="$class_h_s_m_1_1_event_header.html" title=" " alt="" coords="5,5,152,259"/>
+</map>

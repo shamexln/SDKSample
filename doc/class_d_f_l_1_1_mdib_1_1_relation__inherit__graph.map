@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::Relation" name="DFL::Mdib::Relation">
+<area shape="rect" id="node1" title="Allows the modeling of relationships between a metric and other containment tree entries." alt="" coords="42,248,179,428"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_has_extensions.html" title="Base type for supporting the BICEPS extension model." alt="" coords="5,5,216,200"/>
+</map>

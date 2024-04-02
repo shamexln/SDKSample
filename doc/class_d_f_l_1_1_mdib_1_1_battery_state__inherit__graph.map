@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::BatteryState" name="DFL::Mdib::BatteryState">
+<area shape="rect" id="node1" title="Volatile part of battery information." alt="" coords="31,351,205,633"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_abstract_device_component_state.html" title="State of a component that is part of an Mds." alt="" coords="5,5,231,303"/>
+</map>

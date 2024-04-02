@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::IInterfaceChangeObserver" name="S31::Sdc::Impl::IInterfaceChangeObserver">
+<area shape="rect" id="node1" title="Observer to notify on any network interface changes." alt="" coords="8,5,205,112"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_w_s_eventing_client_subscription_manager_impl_1_1_net_if_change_observer.html" title=" " alt="" coords="5,160,208,296"/>
+</map>

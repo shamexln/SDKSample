@@ -1,0 +1,7 @@
+<map id="S31::Sdc::Impl::HttpClient" name="S31::Sdc::Impl::HttpClient">
+<area shape="rect" id="node1" title="Interface for an Http Client." alt="" coords="317,5,491,156"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_basic_http_client.html" title="Https Client." alt="" coords="5,226,179,347"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_impl_1_1_queueing_http_client.html" title="Queueing Https client adapter." alt="" coords="203,204,378,369"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_sdc_1_1_impl_1_1_test_1_1_http_client_with_injected_response.html" title="Helper to inject a response body to an HttpClient request for tests." alt="" coords="403,219,632,355"/>
+<area shape="rect" id="node5" href="$class_s31_1_1_sdc_1_1_test_1_1_http_client_mock.html" title=" " alt="" coords="657,204,863,369"/>
+</map>

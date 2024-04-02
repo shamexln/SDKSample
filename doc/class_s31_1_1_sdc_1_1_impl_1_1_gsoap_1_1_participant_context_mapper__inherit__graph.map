@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::Gsoap::ParticipantContextMapper" name="S31::Sdc::Impl::Gsoap::ParticipantContextMapper">
+<area shape="rect" id="node1" title="Mapping between Gsoap and Mdib contexts (that is: patient &amp; location)." alt="" coords="5,5,228,244"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_gsoap_1_1_participant_mapper.html" title="Combines mapping functions from the specific participant mappers." alt="" coords="33,292,200,531"/>
+</map>

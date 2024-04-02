@@ -1,0 +1,7 @@
+<map id="DFL::Mdib::AbstractMetricValue" name="DFL::Mdib::AbstractMetricValue">
+<area shape="rect" id="node1" title="Abstract value of a metric." alt="" coords="216,248,391,501"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_numeric_metric_value.html" title="Numeric value of a NumericMetricState." alt="" coords="5,549,180,671"/>
+<area shape="rect" id="node4" href="$class_d_f_l_1_1_mdib_1_1_sample_array_value.html" title="Type that contains sequences of values, i.e., sample arrays." alt="" coords="204,549,403,671"/>
+<area shape="rect" id="node5" href="$class_d_f_l_1_1_mdib_1_1_string_metric_value.html" title="Value of a StringMetricState." alt="" coords="427,557,620,663"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_has_extensions.html" title="Base type for supporting the BICEPS extension model." alt="" coords="198,5,409,200"/>
+</map>

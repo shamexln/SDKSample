@@ -1,0 +1,10 @@
+BOOST_SIGNALS_SRC_DIR = $(boost_DIR)/libs/signals/src
+
+# SOURCE_LIST
+BOOST_SIGNALS_SRC	 = $(addprefix $(BOOST_SIGNALS_SRC_DIR)/, \
+	connection.cpp \
+	named_slot_map.cpp \
+	signal_base.cpp \
+	slot.cpp \
+	trackable.cpp \
+	)

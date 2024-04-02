@@ -1,0 +1,5 @@
+<map id="DFL::Mdib::AlertConditionDescriptor" name="DFL::Mdib::AlertConditionDescriptor">
+<area shape="rect" id="node1" title="An alert condition contains the information about a potentially or actually hazardous situation." alt="" coords="9,204,212,545"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_limit_alert_condition_descriptor.html" title="Static part of a LimitAlertCondition." alt="" coords="5,593,216,759"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_abstract_descriptor.html" title="Defines foundational meta information of any object that is included in the descriptive part of the M..." alt="" coords="11,5,210,156"/>
+</map>

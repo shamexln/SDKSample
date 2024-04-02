@@ -1,0 +1,4 @@
+<map id="S31::ResourceDepleted" name="S31::ResourceDepleted">
+<area shape="rect" id="node1" title="Shall be thrown when some internal resource limit is reached." alt="" coords="5,175,164,252"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_exception.html" title="S31 base exception for all exceptions thrown in S31." alt="" coords="29,5,140,127"/>
+</map>

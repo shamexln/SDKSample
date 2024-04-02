@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::CommunicationEndpoint" name="S31::Sdc::Impl::CommunicationEndpoint">
+<area shape="rect" id="node1" title="Entry point to create a DPWS device." alt="" coords="14,160,222,633"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_communication_endpoint.html" title="Allows to access information regarding the communication endpoint for all devices and clients." alt="" coords="5,5,231,112"/>
+</map>

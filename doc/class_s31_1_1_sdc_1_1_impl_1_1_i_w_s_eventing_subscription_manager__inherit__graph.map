@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::IWSEventingSubscriptionManager" name="S31::Sdc::Impl::IWSEventingSubscriptionManager">
+<area shape="rect" id="node1" title="Interface for device side WS&#45;Eventing subscription manager." alt="" coords="23,5,213,229"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_w_s_eventing_plugin.html" title="This WS&#45;Eventing plug&#45;in is used for DPWS device hosted services." alt="" coords="5,277,231,1000"/>
+</map>

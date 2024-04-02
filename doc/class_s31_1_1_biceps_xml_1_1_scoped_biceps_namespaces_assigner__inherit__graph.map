@@ -1,0 +1,4 @@
+<map id="S31::BicepsXml::ScopedBicepsNamespacesAssigner" name="S31::BicepsXml::ScopedBicepsNamespacesAssigner">
+<area shape="rect" id="node1" title="Assigns BICEPS related namespaces to a soap handle." alt="" coords="5,160,259,252"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_gsoap_1_1_namespaces_assigner.html" title="Assigns and restores namespaces to a soap handle." alt="" coords="19,5,245,112"/>
+</map>

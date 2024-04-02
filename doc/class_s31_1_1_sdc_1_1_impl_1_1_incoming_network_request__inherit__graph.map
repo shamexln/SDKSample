@@ -1,0 +1,5 @@
+<map id="S31::Sdc::Impl::IncomingNetworkRequest" name="S31::Sdc::Impl::IncomingNetworkRequest">
+<area shape="rect" id="node1" title="Abstract base class for an incoming network request." alt="" coords="91,5,289,288"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_incoming_http_request.html" title="Abstract base for HTTP requests." alt="" coords="5,336,180,531"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_impl_1_1_incoming_udp_request.html" title="Incoming WS&#45;Discovery UDP SOAP message." alt="" coords="205,373,373,494"/>
+</map>

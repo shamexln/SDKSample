@@ -1,0 +1,6 @@
+<map id="S31::Sdc::Impl::HttpPostHandler" name="S31::Sdc::Impl::HttpPostHandler">
+<area shape="rect" id="node1" title="Https POST Handler interface." alt="" coords="333,5,499,112"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_w_s_eventing_client_subscription_manager_impl.html" title=" " alt="" coords="5,160,304,1015"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_impl_1_1_http_server_handler.html" title="Https Server Handler interface." alt="" coords="328,534,504,641"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_sdc_1_1_impl_1_1_w_s_eventing_client_subscription_manager_impl.html" title="Registers itself as a WS&#45;Eventing sink and handles client side subscriptions." alt="" coords="529,160,754,1015"/>
+</map>

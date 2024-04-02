@@ -1,0 +1,6 @@
+<map id="S31::Sdc::IDispatcher" name="S31::Sdc::IDispatcher">
+<area shape="rect" id="node1" title="Subclasses of this interface are responsible to work on the S31::Sdc::IJobQueue." alt="" coords="263,5,412,141"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_test_1_1_dispatcher_spy.html" title=" " alt="" coords="5,204,208,487"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_thread_pool_dispatcher.html" title="Implementation of a dispatcher using a thread pool." alt="" coords="232,226,443,465"/>
+<area shape="rect" id="node4" href="$class_s31__2_1_1_s31_dispatcher.html" title="Dispatcher implementation for S31 worker threads." alt="" coords="467,189,619,501"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="S31::InternalDataMappingFailed" name="S31::InternalDataMappingFailed">
+<area shape="rect" id="node1" title="Shall be thrown when internal data cannot be mapped." alt="" coords="5,175,176,267"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_exception.html" title="S31 base exception for all exceptions thrown in S31." alt="" coords="35,5,146,127"/>
+</map>

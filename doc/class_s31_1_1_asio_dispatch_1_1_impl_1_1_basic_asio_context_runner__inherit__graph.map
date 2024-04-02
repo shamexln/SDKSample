@@ -1,0 +1,4 @@
+<map id="S31::AsioDispatch::Impl::BasicAsioContextRunner" name="S31::AsioDispatch::Impl::BasicAsioContextRunner">
+<area shape="rect" id="node1" title="Basic scheduling on boost asio io context." alt="" coords="5,204,204,457"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_asio_dispatch_1_1_impl_1_1_asio_context_runner.html" title="Run an asio io context to process work." alt="" coords="21,5,188,156"/>
+</map>

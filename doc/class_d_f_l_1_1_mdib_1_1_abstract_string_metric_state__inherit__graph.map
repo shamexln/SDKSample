@@ -1,0 +1,6 @@
+<map id="DFL::Mdib::AbstractStringMetricState" name="DFL::Mdib::AbstractStringMetricState">
+<area shape="rect" id="node1" title="Base class for all string metrics." alt="" coords="111,321,310,457"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_enum_string_metric_state.html" title="Describes the volatile part of an EnumStringMetric." alt="" coords="5,505,200,612"/>
+<area shape="rect" id="node4" href="$class_d_f_l_1_1_mdib_1_1_string_metric_state.html" title="Describes the volatile part of a StringMetric." alt="" coords="225,513,415,605"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_abstract_metric_state.html" title="An abstract state for a metric." alt="" coords="111,5,310,273"/>
+</map>

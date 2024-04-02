@@ -1,0 +1,5 @@
+<map id="S31::Sdc::Impl::Endpoint::DpwsEndpoint" name="S31::Sdc::Impl::Endpoint::DpwsEndpoint">
+<area shape="rect" id="node1" title="An endpoint access point and remote device validation tool." alt="" coords="19,189,186,281"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_impl_1_1_endpoint_1_1_dpws_endpoint_impl.html" title="Default implementation of DpwsEndpoint." alt="" coords="19,329,186,480"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_observer_1_1_subject.html" title="Interface for generic observable container." alt="" coords="5,5,200,141"/>
+</map>

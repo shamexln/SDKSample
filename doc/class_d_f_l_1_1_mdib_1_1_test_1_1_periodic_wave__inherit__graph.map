@@ -1,0 +1,6 @@
+<map id="DFL::Mdib::Test::PeriodicWave" name="DFL::Mdib::Test::PeriodicWave">
+<area shape="rect" id="node1" title="Periodic function." alt="" coords="119,204,322,296"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_test_1_1_sawtooth_wave.html" title="A sawtooth function." alt="" coords="5,344,215,436"/>
+<area shape="rect" id="node4" href="$class_d_f_l_1_1_mdib_1_1_test_1_1_sinus_wave.html" title="A sine function." alt="" coords="239,344,427,436"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_test_1_1_wave.html" title="Data source for waveforms/real time sample arrays." alt="" coords="140,5,301,156"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="HSM::InOutPort&lt; InType, OutType, replFactor &gt;" name="HSM::InOutPort&lt; InType, OutType, replFactor &gt;">
+<area shape="rect" id="node1" title="Aggregates an InPort and an Outport (optionally with a replication factor greater than 1) to allow ea..." alt="" coords="209,277,377,428"/>
+<area shape="rect" id="node2" href="$class_h_s_m_1_1_sender_port.html" title=" " alt="" coords="5,5,195,229"/>
+<area shape="rect" id="node3" href="$class_h_s_m_1_1_receiver_port.html" title=" " alt="" coords="219,35,367,200"/>
+<area shape="rect" id="node4" href="$class_h_s_m_1_1_local_in_port_common.html" title=" " alt="" coords="392,27,568,207"/>
+</map>

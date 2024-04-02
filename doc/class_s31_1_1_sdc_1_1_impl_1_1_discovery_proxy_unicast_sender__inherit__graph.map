@@ -1,0 +1,6 @@
+<map id="S31::Sdc::Impl::DiscoveryProxyUnicastSender" name="S31::Sdc::Impl::DiscoveryProxyUnicastSender">
+<area shape="rect" id="node1" title="Send WS&#45;Discovery one&#45;way messages as Http requests to a Discovery Proxy." alt="" coords="199,189,425,399"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_i_outgoing_sender.html" title="Interface for sending WS&#45;Discovery messages." alt="" coords="5,13,176,134"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_utils_1_1_outcome_consumer.html" title=" " alt="" coords="200,5,424,141"/>
+<area shape="rect" id="node4" title=" " alt="" coords="448,20,632,127"/>
+</map>

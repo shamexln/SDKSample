@@ -1,0 +1,8 @@
+<map id="DFL::Log::Severity" name="DFL::Log::Severity">
+<area shape="rect" id="node1" title="Base class for concrete severity type classes." alt="" coords="339,5,469,185"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_log_1_1_error_type.html" title="Type which represents the severity error." alt="" coords="5,233,144,311"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_log_1_1_info_type.html" title="Type which represents the severity info." alt="" coords="168,233,299,311"/>
+<area shape="rect" id="node4" href="$class_d_f_l_1_1_log_1_1_success_type.html" title="Type which represents the severity success." alt="" coords="323,233,485,311"/>
+<area shape="rect" id="node5" href="$class_d_f_l_1_1_log_1_1_trace_type.html" title="Type which represents the severity trace." alt="" coords="510,233,653,311"/>
+<area shape="rect" id="node6" href="$class_d_f_l_1_1_log_1_1_warning_type.html" title="Type which represents the severity warning." alt="" coords="677,233,835,311"/>
+</map>

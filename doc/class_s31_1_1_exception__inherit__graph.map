@@ -1,0 +1,10 @@
+<map id="S31::Exception" name="S31::Exception">
+<area shape="rect" id="node1" title="S31 base exception for all exceptions thrown in S31." alt="" coords="493,131,604,252"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_external_failure.html" title="Base type for all kind of failures triggered by remote (invalid data)." alt="" coords="5,322,145,399"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_internal_consistency_failure.html" title="Shall be thrown when internal consistency cross&#45;checks fail." alt="" coords="169,315,336,407"/>
+<area shape="rect" id="node5" href="$class_s31_1_1_internal_data_mapping_failed.html" title="Shall be thrown when internal data cannot be mapped." alt="" coords="361,315,531,407"/>
+<area shape="rect" id="node6" href="$class_s31_1_1_internal_resource_missing.html" title="Shall be thrown when internal resources like scheduling, shared memory, ... are not available." alt="" coords="555,322,750,399"/>
+<area shape="rect" id="node7" href="$class_s31_1_1_resource_depleted.html" title="Shall be thrown when some internal resource limit is reached." alt="" coords="775,322,933,399"/>
+<area shape="rect" id="node8" href="$class_s31_1_1_utils_1_1_exception_with_error.html" title="Exception that holds an error." alt="" coords="957,300,1129,421"/>
+<area shape="rect" id="node2" title=" " alt="" coords="487,5,611,83"/>
+</map>

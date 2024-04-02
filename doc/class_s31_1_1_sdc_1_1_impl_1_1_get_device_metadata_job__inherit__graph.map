@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::GetDeviceMetadataJob" name="S31::Sdc::Impl::GetDeviceMetadataJob">
+<area shape="rect" id="node1" title="Retrieves the DPWS metadata of a remote device." alt="" coords="30,219,205,355"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_outgoing_blocking_http_request_with_outcome.html" title=" " alt="" coords="5,5,229,171"/>
+</map>

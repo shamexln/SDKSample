@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::Test::AnnotationAdderSomeInvalid" name="DFL::Mdib::Test::AnnotationAdderSomeInvalid">
+<area shape="rect" id="node1" title="Gives 10% of the samples an INVALID annotation (in continuous blocks)." alt="" coords="5,160,191,252"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_test_1_1_annotation_adder.html" title="Base class to add annotations to sample." alt="" coords="5,5,191,112"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="DFL::Mdib::AbstractMetricState" name="DFL::Mdib::AbstractMetricState">
+<area shape="rect" id="node1" title="An abstract state for a metric." alt="" coords="343,248,541,516"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_abstract_string_metric_state.html" title="Base class for all string metrics." alt="" coords="5,601,204,737"/>
+<area shape="rect" id="node4" href="$class_d_f_l_1_1_mdib_1_1_distribution_sample_array_metric_state.html" title="State of a DistributionSampleArrayMetricDescriptor." alt="" coords="229,579,439,759"/>
+<area shape="rect" id="node5" href="$class_d_f_l_1_1_mdib_1_1_numeric_metric_state.html" title="Describes the volatile part of a NumericMetric." alt="" coords="464,579,639,759"/>
+<area shape="rect" id="node6" href="$class_d_f_l_1_1_mdib_1_1_real_time_sample_array_metric_state.html" title="Describes the volatile part of a RealTimeSampleArrayMetric." alt="" coords="663,564,861,773"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_has_extensions.html" title="Base type for supporting the BICEPS extension model." alt="" coords="337,5,547,200"/>
+</map>

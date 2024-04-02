@@ -1,0 +1,6 @@
+<map id="S31::BicepsXml::XmlReportObserver" name="S31::BicepsXml::XmlReportObserver">
+<area shape="rect" id="node1" title="Observer interface similar to SubdividedMdibObserver with BICEPS xml changes report." alt="" coords="240,5,451,200"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_history_1_1_biceps_to_store_mapper.html" title="Mapper between BicepsXml and History interfaces for MDIB changes." alt="" coords="5,380,216,575"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_impl_1_1_mdib_changes_publisher.html" title="Publishes S31::Mdib::MdibChanges in the SDC network." alt="" coords="240,365,451,589"/>
+<area shape="rect" id="node4" href="$class_s31__2_1_1_alert_handler.html" title="The alert handler implementation for S31.2." alt="" coords="475,248,685,707"/>
+</map>

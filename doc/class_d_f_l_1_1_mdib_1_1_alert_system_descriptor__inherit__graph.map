@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::AlertSystemDescriptor" name="DFL::Mdib::AlertSystemDescriptor">
+<area shape="rect" id="node1" title="Describes the static part of an AlertSystem." alt="" coords="5,204,229,413"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_abstract_descriptor.html" title="Defines foundational meta information of any object that is included in the descriptive part of the M..." alt="" coords="18,5,217,156"/>
+</map>

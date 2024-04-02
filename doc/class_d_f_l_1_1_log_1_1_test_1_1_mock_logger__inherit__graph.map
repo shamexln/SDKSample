@@ -1,0 +1,4 @@
+<map id="DFL::Log::Test::MockLogger" name="DFL::Log::Test::MockLogger">
+<area shape="rect" id="node1" title="Mocks a given Logger by redirecting all messages into a container." alt="" coords="5,468,192,545"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_log_1_1_impl_1_1_basic_container_logger.html" title=" " alt="" coords="14,5,183,420"/>
+</map>

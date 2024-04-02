@@ -1,0 +1,5 @@
+<map id="S31::Sdc::Impl::DpwsSubscriptionMonitor" name="S31::Sdc::Impl::DpwsSubscriptionMonitor">
+<area shape="rect" id="node1" title="Monitors the 2 subscriptions (Mdib updates and operation invoke reports) belonging to a remote medica..." alt="" coords="121,160,347,663"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_i_dpws_subscription_monitor.html" title="Interface to notify a specific subscription as active." alt="" coords="5,5,228,112"/>
+<area shape="rect" id="node3" title=" " alt="" coords="252,5,451,112"/>
+</map>

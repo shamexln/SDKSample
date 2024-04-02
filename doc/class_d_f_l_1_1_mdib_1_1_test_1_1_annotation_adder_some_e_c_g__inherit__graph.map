@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::Test::AnnotationAdderSomeECG" name="DFL::Mdib::Test::AnnotationAdderSomeECG">
+<area shape="rect" id="node1" title="Gives from time to time an ECG annotation." alt="" coords="5,160,191,252"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_test_1_1_annotation_adder.html" title="Base class to add annotations to sample." alt="" coords="5,5,191,112"/>
+</map>

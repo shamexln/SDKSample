@@ -1,0 +1,6 @@
+<map id="HSM::ConnectablePort&lt; 1 &gt;" name="HSM::ConnectablePort&lt; 1 &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="87,277,274,604"/>
+<area shape="rect" id="node3" href="$class_h_s_m_1_1_port_base.html" title="Base class for typed connectable ports." alt="" coords="5,696,172,847"/>
+<area shape="rect" id="node4" href="$class_h_s_m_1_1_queue_head_port.html" title=" " alt="" coords="197,652,351,891"/>
+<area shape="rect" id="node2" href="$class_h_s_m_1_1_abstract_connectable_port.html" title="Abstract base class for the hierarchy of connectable ports." alt="" coords="79,5,283,229"/>
+</map>

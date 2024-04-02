@@ -1,0 +1,5 @@
+<map id="S31::Sdc::Impl::IWSEventingClientListener" name="S31::Sdc::Impl::IWSEventingClientListener">
+<area shape="rect" id="node1" title="Callback interface for WS&#45;Eventing clients that is called for registered incoming events and status i..." alt="" coords="23,145,225,296"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_impl_1_1_dpws_subscription.html" title="One instance is a subscription one remote medical device to retrieve event updates." alt="" coords="5,344,243,685"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_utils_1_1_error_handler.html" title="Interface for class that can handle errors (see Error)" alt="" coords="45,5,203,97"/>
+</map>

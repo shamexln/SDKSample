@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::Gsoap::ParticipantMetricMapper" name="S31::Sdc::Impl::Gsoap::ParticipantMetricMapper">
+<area shape="rect" id="node1" title="Maps all metric classes from the BICEPS participant model." alt="" coords="5,5,248,581"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_gsoap_1_1_participant_mapper.html" title="Combines mapping functions from the specific participant mappers." alt="" coords="43,629,210,868"/>
+</map>

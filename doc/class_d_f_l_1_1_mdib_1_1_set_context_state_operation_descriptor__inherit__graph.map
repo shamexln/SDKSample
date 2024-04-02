@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::SetContextStateOperationDescriptor" name="DFL::Mdib::SetContextStateOperationDescriptor">
+<area shape="rect" id="node1" title="Defines the static part of a SetContextStateOperation." alt="" coords="7,204,194,340"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_abstract_set_state_operation_descriptor.html" title="Abstract description of an operation that is exposed on the Sco and is intended to be used to set a c..." alt="" coords="5,5,196,156"/>
+</map>

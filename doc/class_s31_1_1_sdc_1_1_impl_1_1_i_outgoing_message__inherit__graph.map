@@ -1,0 +1,5 @@
+<map id="S31::Sdc::Impl::IOutgoingMessage" name="S31::Sdc::Impl::IOutgoingMessage">
+<area shape="rect" id="node1" title="This interface must be implemented for event and waveform messages to send." alt="" coords="142,5,313,141"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_one_way_message.html" title="Encapsulates an outgoing oneway HTTP message." alt="" coords="5,197,225,391"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_test_1_1_outgoing_message_mock.html" title=" " alt="" coords="250,189,429,399"/>
+</map>

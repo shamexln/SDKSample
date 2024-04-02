@@ -1,0 +1,5 @@
+<map id="DFL::Mdib::BaseDemographics" name="DFL::Mdib::BaseDemographics">
+<area shape="rect" id="node1" title="Definition of basic demographic information." alt="" coords="14,248,217,545"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_patient_demographics_core_data.html" title="Contains the essential (core) demographics of the patient." alt="" coords="5,593,225,1184"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_has_extensions.html" title="Base type for supporting the BICEPS extension model." alt="" coords="10,5,221,200"/>
+</map>

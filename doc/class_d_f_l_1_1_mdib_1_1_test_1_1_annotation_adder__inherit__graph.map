@@ -1,0 +1,5 @@
+<map id="DFL::Mdib::Test::AnnotationAdder" name="DFL::Mdib::Test::AnnotationAdder">
+<area shape="rect" id="node1" title="Base class to add annotations to sample." alt="" coords="109,5,295,112"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_test_1_1_annotation_adder_some_e_c_g.html" title="Gives from time to time an ECG annotation." alt="" coords="5,160,191,252"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_test_1_1_annotation_adder_some_invalid.html" title="Gives 10% of the samples an INVALID annotation (in continuous blocks)." alt="" coords="215,160,400,252"/>
+</map>

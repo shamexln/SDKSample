@@ -1,0 +1,6 @@
+<map id="S31::Sdc::Impl::DpwsOperationInvokerQueue" name="S31::Sdc::Impl::DpwsOperationInvokerQueue">
+<area shape="rect" id="node1" title="Implements the S31::SetService::OperationInvokerQueue that is required by the Set Service API." alt="" coords="221,307,429,648"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_set_service_1_1_operation_invoker_queue.html" title="Interface to prepare and send operation requests." alt="" coords="5,5,189,259"/>
+<area shape="rect" id="node3" title=" " alt="" coords="214,79,437,185"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_utils_1_1_outcome_consumer.html" title=" " alt="" coords="461,64,665,200"/>
+</map>

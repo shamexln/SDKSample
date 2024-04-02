@@ -1,0 +1,6 @@
+<map id="Framework/Utils/Public/TypesafeEnum.h" name="Framework/Utils/Public/TypesafeEnum.h">
+<area shape="rect" id="node1" title="DEPRECATED &#45; Define enums in a typesafe way." alt="" coords="198,5,354,47"/>
+<area shape="rect" id="node2" href="$_status_8h_source.html" title=" " alt="" coords="5,95,173,136"/>
+<area shape="rect" id="node3" href="$_gas_kind_8h.html" title="Declares and defines typesafe gas kind enum values by using the DFL_TYPESAFE_ENUM macro from Typesafe..." alt="" coords="198,95,354,136"/>
+<area shape="rect" id="node4" href="$_tri_state_8h.html" title="Declares and defines typesafe tri&#45;state enum values by using the DFL_TYPESAFE_ENUM macro from Typesaf..." alt="" coords="378,95,534,136"/>
+</map>

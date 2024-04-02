@@ -1,0 +1,5 @@
+<map id="DFL::Observer::BasicSubject&lt; ObserverType, BasicLockable, InvokePolicy &gt;" name="DFL::Observer::BasicSubject&lt; ObserverType, BasicLockable, InvokePolicy &gt;">
+<area shape="rect" id="node1" title="Generic observable container to enable publish&#45;subscribe for smart pointers." alt="" coords="5,189,216,355"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_history_1_1_biceps_to_store_mapper.html" title="Mapper between BicepsXml and History interfaces for MDIB changes." alt="" coords="5,403,216,597"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_observer_1_1_subject.html" title="Interface for generic observable container." alt="" coords="32,5,189,141"/>
+</map>

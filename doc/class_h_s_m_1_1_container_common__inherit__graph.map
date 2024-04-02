@@ -1,0 +1,4 @@
+<map id="HSM::ContainerCommon" name="HSM::ContainerCommon">
+<area shape="rect" id="node1" title="Base class for containers which aggregate multiple statemachines." alt="" coords="5,5,188,391"/>
+<area shape="rect" id="node2" href="$class_h_s_m_1_1_active_object.html" title="Runtime context (thread/process) of a set of event&#45;handlers (e.g. state machines)." alt="" coords="15,439,178,663"/>
+</map>

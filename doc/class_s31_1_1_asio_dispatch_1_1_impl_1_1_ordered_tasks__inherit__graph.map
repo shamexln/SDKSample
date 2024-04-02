@@ -1,0 +1,5 @@
+<map id="S31::AsioDispatch::Impl::OrderedTasks" name="S31::AsioDispatch::Impl::OrderedTasks">
+<area shape="rect" id="node1" title="Executes tasks with the given executor." alt="" coords="107,160,276,428"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_asio_dispatch_1_1_executor_observer.html" title="Provides notification of important events from an ExecutorProvider." alt="" coords="5,5,175,112"/>
+<area shape="rect" id="node3" title=" " alt="" coords="199,13,386,105"/>
+</map>

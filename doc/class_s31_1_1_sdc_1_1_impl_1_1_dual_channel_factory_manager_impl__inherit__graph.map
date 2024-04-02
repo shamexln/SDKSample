@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::DualChannelFactoryManagerImpl" name="S31::Sdc::Impl::DualChannelFactoryManagerImpl">
+<area shape="rect" id="node1" title="Default implementation of S31::Sdc::DualChannelFactoryManager." alt="" coords="9,189,219,325"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_dual_channel_factory_manager.html" title="Manages S31::Safety::DualChannelFactory instances to create comparators." alt="" coords="5,5,223,141"/>
+</map>

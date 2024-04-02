@@ -1,0 +1,4 @@
+<map id="DFL::Log::Windows::DwSecurityLogger" name="DFL::Log::Windows::DwSecurityLogger">
+<area shape="rect" id="node1" title="Puts received messages into the &quot;DW&#45;Security&quot; Windows Event Logbook." alt="" coords="16,175,163,267"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_log_1_1_impl_1_1_windows_1_1_basic_dw_logger.html" title=" " alt="" coords="5,5,173,127"/>
+</map>

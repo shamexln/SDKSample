@@ -1,0 +1,11 @@
+<map id="DFL::Mdib::AbstractOperationState" name="DFL::Mdib::AbstractOperationState">
+<area shape="rect" id="node1" title="State of an operation that is exposed on the Sco." alt="" coords="680,248,875,369"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_activate_operation_state.html" title="Describes the volatile part of an ActivateOperation." alt="" coords="5,432,197,539"/>
+<area shape="rect" id="node4" href="$class_d_f_l_1_1_mdib_1_1_set_alert_state_operation_state.html" title="Defines the volatile part of a SetAlertStateOperation." alt="" coords="222,432,429,539"/>
+<area shape="rect" id="node5" href="$class_d_f_l_1_1_mdib_1_1_set_component_state_operation_state.html" title="Defines the volatile part of a SetComponentStateOperation." alt="" coords="453,417,659,553"/>
+<area shape="rect" id="node6" href="$class_d_f_l_1_1_mdib_1_1_set_context_state_operation_state.html" title="Defines the volatile part of a SetContextStateOperation." alt="" coords="684,417,871,553"/>
+<area shape="rect" id="node7" href="$class_d_f_l_1_1_mdib_1_1_set_metric_state_operation_state.html" title="Defines the volatile part of a SetMetricStateOperation." alt="" coords="895,432,1111,539"/>
+<area shape="rect" id="node8" href="$class_d_f_l_1_1_mdib_1_1_set_string_operation_state.html" title="Defines the volatile part of a SetStringOperation." alt="" coords="1135,425,1335,546"/>
+<area shape="rect" id="node9" href="$class_d_f_l_1_1_mdib_1_1_set_value_operation_state.html" title="Defines the volatile part of a SetValueOperation." alt="" coords="1359,425,1558,546"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_has_extensions.html" title="Base type for supporting the BICEPS extension model." alt="" coords="672,5,883,200"/>
+</map>

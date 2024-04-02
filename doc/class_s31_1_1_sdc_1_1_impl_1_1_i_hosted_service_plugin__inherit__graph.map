@@ -1,0 +1,8 @@
+<map id="S31::Sdc::Impl::IHostedServicePlugin" name="S31::Sdc::Impl::IHostedServicePlugin">
+<area shape="rect" id="node1" title="Interface that plug&#45;ins have to implement for extension." alt="" coords="327,145,529,252"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_adt_1_1_impl_1_1_w_s_eventing_plugin.html" title="WS&#45;Eventing device plug&#45;in for the ADT service." alt="" coords="5,586,189,737"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_sdc_1_1_impl_1_1_history_eventing_plugin.html" title="WS&#45;Eventing device plug&#45;in for history service." alt="" coords="214,593,421,729"/>
+<area shape="rect" id="node5" href="$class_s31_1_1_sdc_1_1_impl_1_1_w_s_eventing_handler.html" title="WS&#45;Eventing implementation for the device side." alt="" coords="445,579,632,744"/>
+<area shape="rect" id="node6" href="$class_s31_1_1_sdc_1_1_impl_1_1_w_s_eventing_plugin.html" title="This WS&#45;Eventing plug&#45;in is used for DPWS device hosted services." alt="" coords="657,300,882,1023"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_i_web_service.html" title="Interface for SOAP web services." alt="" coords="334,5,522,97"/>
+</map>

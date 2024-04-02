@@ -1,0 +1,5 @@
+<map id="S31::Sdc::Impl::IScheduling" name="S31::Sdc::Impl::IScheduling">
+<area shape="rect" id="node1" title="Public entry point for dSOAP scheduling." alt="" coords="136,5,373,273"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_scheduling_impl.html" title="Implementation for S31::Sdc::Impl::IScheduling." alt="" coords="5,321,243,853"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_impl_1_1_test_1_1_scheduling_mock.html" title="Creates a scheduling mock that counts added jobs." alt="" coords="267,446,504,729"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="HSM::CallbackInPort&lt; T, replFactor, UnusedType &gt;" name="HSM::CallbackInPort&lt; T, replFactor, UnusedType &gt;">
+<area shape="rect" id="node1" title="This class implements a special inport that can be used by non&#45;HSM classes. When an event is received..." alt="" coords="5,219,204,648"/>
+<area shape="rect" id="node2" href="$class_h_s_m_1_1_receiver_port.html" title=" " alt="" coords="35,5,175,171"/>
+</map>

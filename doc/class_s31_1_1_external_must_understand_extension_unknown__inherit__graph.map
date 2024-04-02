@@ -1,0 +1,4 @@
+<map id="S31::ExternalMustUnderstandExtensionUnknown" name="S31::ExternalMustUnderstandExtensionUnknown">
+<area shape="rect" id="node1" title="Shall be thrown when external data contains unknown must understand extensions." alt="" coords="5,131,201,223"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_external_failure.html" title="Base type for all kind of failures triggered by remote (invalid data)." alt="" coords="33,5,173,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::LocationContextState" name="DFL::Mdib::LocationContextState">
+<area shape="rect" id="node1" title="Dynamic part of a LocationContext." alt="" coords="5,365,189,487"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_abstract_context_state.html" title="Context state that specify that the Mds is able to provide spatial information." alt="" coords="5,5,189,317"/>
+</map>

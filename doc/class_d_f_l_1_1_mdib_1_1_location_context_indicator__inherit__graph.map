@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::LocationContextIndicator" name="DFL::Mdib::LocationContextIndicator">
+<area shape="rect" id="node1" title="Indicates that a medical device can provide information about the location(s) that it is associated w..." alt="" coords="32,189,217,296"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_context_descriptor_entity.html" title=" " alt="" coords="5,5,244,141"/>
+</map>

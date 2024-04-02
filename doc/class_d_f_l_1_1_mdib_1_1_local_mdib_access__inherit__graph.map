@@ -1,0 +1,6 @@
+<map id="DFL::Mdib::LocalMdibAccess" name="DFL::Mdib::LocalMdibAccess">
+<area shape="rect" id="node1" title="MDIB access with automatic version increment." alt="" coords="124,175,343,355"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_mdib_access_impl.html" title="MDIB access implementation that meets the LocalMdibAccess, RemoteMdibAccess, and DFL::Mdib::MdibAcces..." alt="" coords="5,403,224,949"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_sdc_1_1_local_mdib_access.html" title="Reflects a decorated DFL::Mdib::LocalMdibAccess that supports transport specific SDC functionality." alt="" coords="249,637,455,715"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_mdib_access.html" title="Provides read access to the latest version of an MDIB." alt="" coords="127,5,339,127"/>
+</map>

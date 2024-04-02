@@ -1,0 +1,4 @@
+<map id="HSM::ActiveObjectBase" name="HSM::ActiveObjectBase">
+<area shape="rect" id="node1" title="Abstract base class for the ActiveObject class hierarchy." alt="" coords="5,5,191,244"/>
+<area shape="rect" id="node2" href="$class_h_s_m_1_1_active_object.html" title="Runtime context (thread/process) of a set of event&#45;handlers (e.g. state machines)." alt="" coords="17,292,179,516"/>
+</map>

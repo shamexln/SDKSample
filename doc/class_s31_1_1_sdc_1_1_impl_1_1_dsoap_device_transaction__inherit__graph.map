@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::DsoapDeviceTransaction" name="S31::Sdc::Impl::DsoapDeviceTransaction">
+<area shape="rect" id="node1" title="DSOAP implementation of the SetService::DeviceTransaction." alt="" coords="24,321,215,677"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_set_service_1_1_device_transaction.html" title="Transaction context on the device side." alt="" coords="5,5,233,273"/>
+</map>

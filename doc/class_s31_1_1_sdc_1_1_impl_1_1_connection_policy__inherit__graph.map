@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::ConnectionPolicy" name="S31::Sdc::Impl::ConnectionPolicy">
+<area shape="rect" id="node1" title="Interface to customize various policies for Https connections." alt="" coords="22,5,203,288"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_basic_connection_policy.html" title="A basic connection policy." alt="" coords="5,336,220,619"/>
+</map>

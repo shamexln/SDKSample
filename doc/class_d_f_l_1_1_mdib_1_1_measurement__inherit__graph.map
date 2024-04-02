@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::Measurement" name="DFL::Mdib::Measurement">
+<area shape="rect" id="node1" title="Describes a measurement for stateful object attributes that do not have a reference to a descriptor o..." alt="" coords="26,248,195,369"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_has_extensions.html" title="Base type for supporting the BICEPS extension model." alt="" coords="5,5,216,200"/>
+</map>

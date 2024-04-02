@@ -1,0 +1,5 @@
+<map id="S31::Sdc::Client" name="S31::Sdc::Client">
+<area shape="rect" id="node1" title="Client is the central access point in order to discover and connect remote SDC devices." alt="" coords="124,5,297,141"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_biceps_client.html" title="Client is the central access point in order to discover and connect remote SDC devices." alt="" coords="5,226,205,421"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_test_1_1_test_client.html" title="Implementation of an SDC client that runs with dedicated thread pools and network sockets." alt="" coords="230,189,405,457"/>
+</map>

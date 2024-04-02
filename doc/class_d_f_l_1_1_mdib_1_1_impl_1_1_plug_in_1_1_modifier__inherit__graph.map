@@ -1,0 +1,7 @@
+<map id="DFL::Mdib::Impl::PlugIn::Modifier" name="DFL::Mdib::Impl::PlugIn::Modifier">
+<area shape="rect" id="node1" title="Base class for MdibChangeSet modify operations." alt="" coords="371,5,591,156"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_plug_in_1_1_binding_version_modifier.html" title="Updates BindingMdibVersion, UnbindingMdibVersion, BindingStartTime, and BindingEndTime if not set." alt="" coords="5,204,225,311"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_plug_in_1_1_context_state_version_modifier.html" title="Handles ContextStates descriptor versioning for changes in ContextDescriptor." alt="" coords="249,204,469,311"/>
+<area shape="rect" id="node4" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_plug_in_1_1_orphaned_context_state_modifier.html" title="Handles deleting ContextStates when a ContextIndicator is deleted." alt="" coords="493,204,713,311"/>
+<area shape="rect" id="node5" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_plug_in_1_1_parent_descriptor_version_modifier.html" title="Handles descriptor versioning in case of inserted/removed children." alt="" coords="737,204,957,311"/>
+</map>

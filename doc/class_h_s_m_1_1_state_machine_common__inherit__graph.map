@@ -1,0 +1,7 @@
+<map id="HSM::StateMachineCommon" name="HSM::StateMachineCommon">
+<area shape="rect" id="node1" title="Base class with common behaviour of all state machine classes." alt="" coords="209,292,399,589"/>
+<area shape="rect" id="node3" href="$class_h_s_m_1_1_finite_state_machine.html" title="Base class for flat state machines." alt="" coords="5,674,176,927"/>
+<area shape="rect" id="node4" href="$class_h_s_m_1_1_hierarchical_state_machine.html" title="Base class for hierarchical state machines." alt="" coords="201,637,407,964"/>
+<area shape="rect" id="node5" href="$class_h_s_m_1_1_trivial_state_machine.html" title="Base class for event handlers consisting only of one state." alt="" coords="432,711,603,891"/>
+<area shape="rect" id="node2" href="$class_h_s_m_1_1_state_machine_base.html" title=" " alt="" coords="215,5,393,244"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="S31::Sdc::Impl::Gsoap::Visitors::Common&lt; T_GsoapParentDescr, T_VectorType &gt;" name="S31::Sdc::Impl::Gsoap::Visitors::Common&lt; T_GsoapParentDescr, T_VectorType &gt;">
+<area shape="rect" id="node1" title="Common visitor to generically map an entity to gSOAP." alt="" coords="297,5,535,185"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_gsoap_1_1_visitors_1_1_channel.html" title="Variant visitor to map channel children (any metric)." alt="" coords="5,241,171,421"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_impl_1_1_gsoap_1_1_visitors_1_1_mds.html" title="Variant visitor to map MDS children (VMDs)." alt="" coords="195,277,405,384"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_sdc_1_1_impl_1_1_gsoap_1_1_visitors_1_1_sco.html" title="Variant visitor to map SCO children (any operation), suitable for DFL::Mdib::MdsSco and DFL::Mdib::Vm..." alt="" coords="429,233,635,428"/>
+<area shape="rect" id="node5" href="$class_s31_1_1_sdc_1_1_impl_1_1_gsoap_1_1_visitors_1_1_vmd.html" title="Variant visitor to map VMD children (channels)." alt="" coords="660,277,871,384"/>
+</map>

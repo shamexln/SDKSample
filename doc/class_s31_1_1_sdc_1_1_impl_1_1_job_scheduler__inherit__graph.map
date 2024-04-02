@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::JobScheduler" name="S31::Sdc::Impl::JobScheduler">
+<area shape="rect" id="node1" title="Class to get scheduled S31 jobs." alt="" coords="5,204,200,369"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_i_job_queue.html" title="Job queue for S31::Sdc::IDispatcher." alt="" coords="8,5,197,156"/>
+</map>

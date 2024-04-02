@@ -1,0 +1,4 @@
+<map id="HSM::TimerPort&lt; T &gt;" name="HSM::TimerPort&lt; T &gt;">
+<area shape="rect" id="node1" title="Input port for delivering timer events to the owning state machine and ( if implemented by TimerImpl ..." alt="" coords="15,233,172,472"/>
+<area shape="rect" id="node2" href="$class_h_s_m_1_1_local_in_port_common.html" title=" " alt="" coords="5,5,181,185"/>
+</map>

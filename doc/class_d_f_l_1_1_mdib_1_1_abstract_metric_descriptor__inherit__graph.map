@@ -1,0 +1,8 @@
+<map id="DFL::Mdib::AbstractMetricDescriptor" name="DFL::Mdib::AbstractMetricDescriptor">
+<area shape="rect" id="node1" title="An abstract descriptor for a metric." alt="" coords="349,204,534,633"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_distribution_sample_array_metric_descriptor.html" title="Describes the static part of an DistributionSampleArrayMetric." alt="" coords="5,681,216,949"/>
+<area shape="rect" id="node4" href="$class_d_f_l_1_1_mdib_1_1_numeric_metric_descriptor.html" title="Describes the static part of a NumericMetric." alt="" coords="241,718,426,913"/>
+<area shape="rect" id="node5" href="$class_d_f_l_1_1_mdib_1_1_real_time_sample_array_metric_descriptor.html" title="Describes the static part of a RealTimeSampleArrayMetric." alt="" coords="450,696,649,935"/>
+<area shape="rect" id="node6" href="$class_d_f_l_1_1_mdib_1_1_string_metric_descriptor.html" title="Describes the static part of a StringMetric." alt="" coords="673,762,892,869"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_abstract_descriptor.html" title="Defines foundational meta information of any object that is included in the descriptive part of the M..." alt="" coords="342,5,541,156"/>
+</map>

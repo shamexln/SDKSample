@@ -1,0 +1,4 @@
+<map id="HSM::NullState" name="HSM::NullState">
+<area shape="rect" id="node1" title="A nulltype which handles any event without actually doing something." alt="" coords="5,277,147,443"/>
+<area shape="rect" id="node2" href="$class_h_s_m_1_1_abstract_state.html" title="Represents a single state of a statemachine." alt="" coords="5,5,147,229"/>
+</map>

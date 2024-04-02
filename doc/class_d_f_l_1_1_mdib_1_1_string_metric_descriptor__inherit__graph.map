@@ -1,0 +1,5 @@
+<map id="DFL::Mdib::StringMetricDescriptor" name="DFL::Mdib::StringMetricDescriptor">
+<area shape="rect" id="node1" title="Describes the static part of a StringMetric." alt="" coords="5,483,224,589"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_enum_string_metric_descriptor.html" title="Describes the static part of an EnumStringMetric." alt="" coords="12,637,217,773"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_abstract_metric_descriptor.html" title="An abstract descriptor for a metric." alt="" coords="22,5,207,435"/>
+</map>

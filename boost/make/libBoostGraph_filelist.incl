@@ -1,0 +1,7 @@
+BOOST_GRAPH_SRC_DIR = $(boost_DIR)/libs/graph/src
+
+# SOURCE_LIST
+BOOST_GRAPH_SRC	 = $(addprefix $(BOOST_GRAPH_SRC_DIR)/, \
+	graphml.cpp \
+	read_graphviz_new.cpp \
+)

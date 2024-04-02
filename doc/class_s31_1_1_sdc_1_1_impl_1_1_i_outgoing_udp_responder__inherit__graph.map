@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::IOutgoingUdpResponder" name="S31::Sdc::Impl::IOutgoingUdpResponder">
+<area shape="rect" id="node1" title="Interface for sending a UDP (response) message to a given endpoint." alt="" coords="5,5,196,127"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_outgoing_udp_responder.html" title="Send given data to UDP endpoint." alt="" coords="11,175,190,311"/>
+</map>

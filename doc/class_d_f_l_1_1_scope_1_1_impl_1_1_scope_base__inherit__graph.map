@@ -1,0 +1,6 @@
+<map id="DFL::Scope::Impl::ScopeBase&lt; ExitFunc &gt;" name="DFL::Scope::Impl::ScopeBase&lt; ExitFunc &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="168,5,367,156"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_scope_1_1_scope_exit.html" title="Wraps a function and invokes it on exiting the scope." alt="" coords="5,204,164,340"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_scope_1_1_scope_fail.html" title="Wraps a function and invokes it on exiting the scope through an exception." alt="" coords="189,204,346,340"/>
+<area shape="rect" id="node4" href="$class_d_f_l_1_1_scope_1_1_scope_success.html" title="Wraps a function and invokes it on exiting the scope normally." alt="" coords="370,204,557,340"/>
+</map>

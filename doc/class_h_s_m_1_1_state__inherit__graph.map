@@ -1,0 +1,4 @@
+<map id="HSM::State&lt; T &gt;" name="HSM::State&lt; T &gt;">
+<area shape="rect" id="node1" title="Encapsulates a callback function (state handler) which gets called when an event has to be handled by..." alt="" coords="5,277,168,457"/>
+<area shape="rect" id="node2" href="$class_h_s_m_1_1_abstract_state.html" title="Represents a single state of a statemachine." alt="" coords="16,5,157,229"/>
+</map>

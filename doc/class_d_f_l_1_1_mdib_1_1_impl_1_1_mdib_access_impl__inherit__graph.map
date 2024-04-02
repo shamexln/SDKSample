@@ -1,0 +1,5 @@
+<map id="DFL::Mdib::Impl::MdibAccessImpl&lt; T_MdibDetails &gt;" name="DFL::Mdib::Impl::MdibAccessImpl&lt; T_MdibDetails &gt;">
+<area shape="rect" id="node1" title="MDIB access implementation that meets the LocalMdibAccess, RemoteMdibAccess, and DFL::Mdib::MdibAcces..." alt="" coords="127,233,345,780"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_local_mdib_access.html" title="MDIB access with automatic version increment." alt="" coords="5,5,224,185"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_remote_mdib_access.html" title="MDIB access with no version increment." alt="" coords="248,13,467,178"/>
+</map>

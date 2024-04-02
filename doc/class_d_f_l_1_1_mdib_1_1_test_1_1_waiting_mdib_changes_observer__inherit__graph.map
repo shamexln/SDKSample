@@ -1,0 +1,5 @@
+<map id="DFL::Mdib::Test::WaitingMdibChangesObserver" name="DFL::Mdib::Test::WaitingMdibChangesObserver">
+<area shape="rect" id="node1" title="MDIB changes observer with blocking waiting functionality." alt="" coords="123,248,335,589"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_subdivided_mdib_observer.html" title="Interface to register for MDIB changes of MdibAccess subject." alt="" coords="5,5,216,200"/>
+<area shape="rect" id="node3" title=" " alt="" coords="241,49,458,156"/>
+</map>

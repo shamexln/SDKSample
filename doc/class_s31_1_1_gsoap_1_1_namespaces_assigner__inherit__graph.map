@@ -1,0 +1,6 @@
+<map id="S31::Gsoap::NamespacesAssigner" name="S31::Gsoap::NamespacesAssigner">
+<area shape="rect" id="node1" title="Assigns and restores namespaces to a soap handle." alt="" coords="292,5,519,112"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_biceps_xml_1_1_scoped_biceps_namespaces_assigner.html" title="Assigns BICEPS related namespaces to a soap handle." alt="" coords="5,182,259,274"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_biceps_xml_1_1_scoped_biceps_namespaces_assigner_without_soap.html" title="Assigns BICEPS related namespaces to a soap handle." alt="" coords="283,175,528,281"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_sdc_1_1_impl_1_1_scoped_discovery_namespaces_assigner.html" title="Assigns WS&#45;Discovery related namespaces to a soap handle." alt="" coords="552,160,768,296"/>
+</map>

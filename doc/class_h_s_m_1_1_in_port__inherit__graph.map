@@ -1,0 +1,5 @@
+<map id="HSM::InPort&lt; T, replFactor &gt;" name="HSM::InPort&lt; T, replFactor &gt;">
+<area shape="rect" id="node1" title="Input ports, delivering events to the owning state machine." alt="" coords="79,219,269,369"/>
+<area shape="rect" id="node2" href="$class_h_s_m_1_1_receiver_port.html" title=" " alt="" coords="5,5,145,171"/>
+<area shape="rect" id="node3" href="$class_h_s_m_1_1_local_in_port_common.html" title=" " alt="" coords="169,5,376,171"/>
+</map>

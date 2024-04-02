@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::Csm::ClientStateMachineImpl" name="S31::Sdc::Impl::Csm::ClientStateMachineImpl">
+<area shape="rect" id="node1" title="Default implementation of the client state machine." alt="" coords="5,248,192,545"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_csm_1_1_client_state_machine.html" title="Defines a state machine interface to orchestrate the connection process for remote devices." alt="" coords="17,5,180,200"/>
+</map>

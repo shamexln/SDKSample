@@ -1,0 +1,4 @@
+<map id="S31::BicepsXml::MdibChangesSerializer" name="S31::BicepsXml::MdibChangesSerializer">
+<area shape="rect" id="node1" title="Converts Mdib change notifications into serialized BICEPS reports." alt="" coords="5,248,216,457"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_subdivided_mdib_observer.html" title="Interface to register for MDIB changes of MdibAccess subject." alt="" coords="5,5,216,200"/>
+</map>

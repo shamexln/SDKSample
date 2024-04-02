@@ -1,0 +1,8 @@
+<map id="DFL::Mdib::AbstractOperationDescriptor" name="DFL::Mdib::AbstractOperationDescriptor">
+<area shape="rect" id="node1" title="Abstract description of an operation that is exposed on the Sco." alt="" coords="334,248,539,545"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_abstract_set_state_operation_descriptor.html" title="Abstract description of an operation that is exposed on the Sco and is intended to be used to set a c..." alt="" coords="5,593,196,744"/>
+<area shape="rect" id="node4" href="$class_d_f_l_1_1_mdib_1_1_activate_operation_descriptor.html" title="Describes the static part of an ActivateOperation." alt="" coords="221,608,423,729"/>
+<area shape="rect" id="node5" href="$class_d_f_l_1_1_mdib_1_1_set_string_operation_descriptor.html" title="Defines the static part of a SetStringOperation." alt="" coords="447,608,658,729"/>
+<area shape="rect" id="node6" href="$class_d_f_l_1_1_mdib_1_1_set_value_operation_descriptor.html" title="Defines the static part of a SetValueOperation." alt="" coords="682,615,893,722"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_has_extensions.html" title="Base type for supporting the BICEPS extension model." alt="" coords="331,5,542,200"/>
+</map>

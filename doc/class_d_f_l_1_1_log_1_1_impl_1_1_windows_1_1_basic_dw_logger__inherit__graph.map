@@ -1,0 +1,6 @@
+<map id="DFL::Log::Impl::Windows::BasicDwLogger" name="DFL::Log::Impl::Windows::BasicDwLogger">
+<area shape="rect" id="node1" title=" " alt="" coords="165,5,333,127"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_log_1_1_windows_1_1_dw_detailed_logger.html" title="Puts received messages into the &quot;DW&#45;Detailed&quot; Windows Event Logbook." alt="" coords="5,175,152,267"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_log_1_1_windows_1_1_dw_security_logger.html" title="Puts received messages into the &quot;DW&#45;Security&quot; Windows Event Logbook." alt="" coords="176,175,323,267"/>
+<area shape="rect" id="node4" href="$class_d_f_l_1_1_log_1_1_windows_1_1_dw_service_logger.html" title="Puts received messages into the &quot;DW&#45;Service&quot; Windows Event Logbook." alt="" coords="347,175,491,267"/>
+</map>

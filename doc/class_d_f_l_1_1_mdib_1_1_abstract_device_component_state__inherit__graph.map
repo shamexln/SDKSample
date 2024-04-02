@@ -1,0 +1,10 @@
+<map id="DFL::Mdib::AbstractDeviceComponentState" name="DFL::Mdib::AbstractDeviceComponentState">
+<area shape="rect" id="node1" title="State of a component that is part of an Mds." alt="" coords="457,248,683,545"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_battery_state.html" title="Volatile part of battery information." alt="" coords="5,593,180,876"/>
+<area shape="rect" id="node4" href="$class_d_f_l_1_1_mdib_1_1_channel_state.html" title="Describes the volatile part of a Channel." alt="" coords="205,689,373,781"/>
+<area shape="rect" id="node5" href="$class_d_f_l_1_1_mdib_1_1_clock_state.html" title="Dynamic part of of a the Clock object." alt="" coords="397,593,556,876"/>
+<area shape="rect" id="node6" href="$class_d_f_l_1_1_mdib_1_1_mds_state.html" title="Definition of the state of an MdsDescriptor." alt="" coords="580,652,747,817"/>
+<area shape="rect" id="node7" href="$class_d_f_l_1_1_mdib_1_1_sco_state.html" title="Describes the volatile part of the Sco." alt="" coords="771,652,937,817"/>
+<area shape="rect" id="node8" href="$class_d_f_l_1_1_mdib_1_1_vmd_state.html" title="Volatile part of a Vmd." alt="" coords="961,681,1128,788"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_has_extensions.html" title="Base type for supporting the BICEPS extension model." alt="" coords="465,5,675,200"/>
+</map>

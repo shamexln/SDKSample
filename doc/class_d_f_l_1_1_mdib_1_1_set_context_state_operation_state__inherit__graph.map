@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::SetContextStateOperationState" name="DFL::Mdib::SetContextStateOperationState">
+<area shape="rect" id="node1" title="Defines the volatile part of a SetContextStateOperation." alt="" coords="9,175,196,311"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_abstract_operation_state.html" title="State of an operation that is exposed on the Sco." alt="" coords="5,5,200,127"/>
+</map>

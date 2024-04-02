@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::DpwsSubscription" name="S31::Sdc::Impl::DpwsSubscription">
+<area shape="rect" id="node1" title="One instance is a subscription one remote medical device to retrieve event updates." alt="" coords="5,204,243,545"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_i_w_s_eventing_client_listener.html" title="Callback interface for WS&#45;Eventing clients that is called for registered incoming events and status i..." alt="" coords="23,5,225,156"/>
+</map>

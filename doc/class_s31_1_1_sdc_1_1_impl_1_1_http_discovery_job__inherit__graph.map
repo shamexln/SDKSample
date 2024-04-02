@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::HttpDiscoveryJob&lt; T_ResultData, Derived &gt;" name="S31::Sdc::Impl::HttpDiscoveryJob&lt; T_ResultData, Derived &gt;">
+<area shape="rect" id="node1" title="Job to request WS&#45;Discovery data via HTTP (e.g. Discovery via DiscoveryProxy)." alt="" coords="19,219,215,355"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_outgoing_blocking_http_request_with_outcome.html" title=" " alt="" coords="5,5,229,171"/>
+</map>

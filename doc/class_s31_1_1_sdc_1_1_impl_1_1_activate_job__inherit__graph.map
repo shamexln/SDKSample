@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::ActivateJob" name="S31::Sdc::Impl::ActivateJob">
+<area shape="rect" id="node1" title="SDC Activate operation job." alt="" coords="13,351,195,457"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_set_operation_base_job.html" title="Base job for SDC set operations on remote devices." alt="" coords="5,5,203,303"/>
+</map>

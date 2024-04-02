@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::IdleKeepAliveSoapContextPool" name="S31::Sdc::Impl::IdleKeepAliveSoapContextPool">
+<area shape="rect" id="node1" title="Pool for idle outgoing HTTP keep&#45;alive connections." alt="" coords="5,175,251,487"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_i_idle_keep_alive_soap_context_pool.html" title="Interface for keep&#45;alive pool." alt="" coords="14,5,242,127"/>
+</map>

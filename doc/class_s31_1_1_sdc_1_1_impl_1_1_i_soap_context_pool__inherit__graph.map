@@ -1,0 +1,5 @@
+<map id="S31::Sdc::Impl::ISoapContextPool" name="S31::Sdc::Impl::ISoapContextPool">
+<area shape="rect" id="node1" title="A pool of gSOAP soap contexts." alt="" coords="126,5,346,127"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_soap_context_pool.html" title="Pool for struct soap contexts that are used for incoming and outgoing request / SOAP messaging." alt="" coords="5,175,227,545"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_test_1_1_soap_context_pool_mock.html" title="Implementation of S31::Sdc::Impl::ISoapContextPool which always returns only one specific S31::Sdc::I..." alt="" coords="251,292,464,428"/>
+</map>

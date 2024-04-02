@@ -1,0 +1,4 @@
+<map id="HSM::HierarchicalStateMachine" name="HSM::HierarchicalStateMachine">
+<area shape="rect" id="node1" title="Base class for hierarchical state machines." alt="" coords="5,351,212,677"/>
+<area shape="rect" id="node2" href="$class_h_s_m_1_1_state_machine_common.html" title="Base class with common behaviour of all state machine classes." alt="" coords="13,5,204,303"/>
+</map>

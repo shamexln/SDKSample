@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::IDpwsDiscoverySubject" name="S31::Sdc::Impl::IDpwsDiscoverySubject">
+<area shape="rect" id="node1" title="Registration interface to observer DpwsDiscovery information." alt="" coords="11,5,218,200"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_dpws_discovery.html" title="Main processor for WS&#45;Discovery handling in S31.Core." alt="" coords="5,248,224,545"/>
+</map>

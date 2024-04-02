@@ -1,0 +1,12 @@
+<map id="DFL::Mdib::AbstractDescriptor" name="DFL::Mdib::AbstractDescriptor">
+<area shape="rect" id="node1" title="Defines foundational meta information of any object that is included in the descriptive part of the M..." alt="" coords="849,248,1047,399"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_abstract_device_component_descriptor.html" title="Describes a basic device component." alt="" coords="5,593,259,729"/>
+<area shape="rect" id="node4" href="$class_d_f_l_1_1_mdib_1_1_abstract_metric_descriptor.html" title="An abstract descriptor for a metric." alt="" coords="283,447,469,876"/>
+<area shape="rect" id="node5" href="$class_d_f_l_1_1_mdib_1_1_alert_condition_descriptor.html" title="An alert condition contains the information about a potentially or actually hazardous situation." alt="" coords="493,491,696,832"/>
+<area shape="rect" id="node6" href="$class_d_f_l_1_1_mdib_1_1_alert_signal_descriptor.html" title="Defines the dynamic part of an alert signal." alt="" coords="721,476,933,847"/>
+<area shape="rect" id="node7" href="$class_d_f_l_1_1_mdib_1_1_alert_system_descriptor.html" title="Describes the static part of an AlertSystem." alt="" coords="957,557,1181,766"/>
+<area shape="rect" id="node8" href="$class_d_f_l_1_1_mdib_1_1_ensemble_context_descriptor.html" title="Static part of an EnsembleContext." alt="" coords="1206,601,1410,722"/>
+<area shape="rect" id="node9" href="$class_d_f_l_1_1_mdib_1_1_location_context_descriptor.html" title="Static part of a LocationContext." alt="" coords="1435,601,1629,722"/>
+<area shape="rect" id="node10" href="$class_d_f_l_1_1_mdib_1_1_patient_context_descriptor.html" title="Static part of a PatientContext." alt="" coords="1653,601,1840,722"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_has_extensions.html" title="Base type for supporting the BICEPS extension model." alt="" coords="843,5,1053,200"/>
+</map>

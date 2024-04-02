@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::PhysicalConnectorInfo" name="DFL::Mdib::PhysicalConnectorInfo">
+<area shape="rect" id="node1" title="Defines a number in order to allow to guide the clinical user for failure." alt="" coords="5,248,224,384"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_has_extensions.html" title="Base type for supporting the BICEPS extension model." alt="" coords="9,5,220,200"/>
+</map>

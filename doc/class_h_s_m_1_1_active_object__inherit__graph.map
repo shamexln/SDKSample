@@ -1,0 +1,7 @@
+<map id="HSM::ActiveObject" name="HSM::ActiveObject">
+<area shape="rect" id="node1" title="Runtime context (thread/process) of a set of event&#45;handlers (e.g. state machines)." alt="" coords="225,439,387,663"/>
+<area shape="rect" id="node5" href="$class_h_s_m_1_1_unit_test_1_1_mock_active_object.html" title=" " alt="" coords="215,711,397,1023"/>
+<area shape="rect" id="node2" href="$class_h_s_m_1_1_active_object_base.html" title="Abstract base class for the ActiveObject class hierarchy." alt="" coords="5,79,191,317"/>
+<area shape="rect" id="node3" href="$class_h_s_m_1_1_container_common.html" title="Base class for containers which aggregate multiple statemachines." alt="" coords="215,5,397,391"/>
+<area shape="rect" id="node4" href="$class_h_s_m_1_1_abstract_input_queue.html" title="Abstract base class for an input queue delivering events to an active object from a different active ..." alt="" coords="421,130,596,266"/>
+</map>

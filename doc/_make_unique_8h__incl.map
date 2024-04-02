@@ -1,0 +1,4 @@
+<map id="Framework/Utils/Public/MakeUnique.h" name="Framework/Utils/Public/MakeUnique.h">
+<area shape="rect" id="node1" title="Makes the c++14 function std::make_unique available on platforms supporting the c++11 type std::uniqu..." alt="" coords="5,5,161,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="49,95,118,121"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::GetLocalizedTextJob" name="S31::Sdc::Impl::GetLocalizedTextJob">
+<area shape="rect" id="node1" title="Job for a BICEPS GetLocalizedText request." alt="" coords="21,219,213,369"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_outgoing_blocking_http_request_with_outcome.html" title=" " alt="" coords="5,5,229,171"/>
+</map>

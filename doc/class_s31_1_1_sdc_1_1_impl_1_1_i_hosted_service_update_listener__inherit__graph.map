@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::IHostedServiceUpdateListener" name="S31::Sdc::Impl::IHostedServiceUpdateListener">
+<area shape="rect" id="node1" title="Interface that observers of HostedService must implement to get notified in case of metadata changes." alt="" coords="5,5,228,112"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_dpws_device.html" title="Implementation of a DPWS device model with all its metadata." alt="" coords="8,160,225,1279"/>
+</map>

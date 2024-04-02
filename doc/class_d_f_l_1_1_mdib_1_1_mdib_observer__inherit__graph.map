@@ -1,0 +1,11 @@
+<map id="DFL::Mdib::MdibObserver" name="DFL::Mdib::MdibObserver">
+<area shape="rect" id="node1" title="Interface to register for MDIB changes of MdibAccess subject." alt="" coords="792,5,961,97"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_test_1_1_waiting_mdib_observer.html" title="MDIB observer with blocking waiting functionality." alt="" coords="5,336,172,501"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_impl_1_1_mdib_access_impl_common.html" title="Common part for S31&#39;s wrapping of local and remote MdibAccess." alt="" coords="197,219,439,619"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_sdc_1_1_impl_1_1_workplace_device_provider_impl_helper_1_1_forwarding_mdib_observer.html" title=" " alt="" coords="463,358,647,479"/>
+<area shape="rect" id="node5" href="$class_s31_1_1_sdc_1_1_test_1_1_observe_mdib_and_fetch.html" title=" " alt="" coords="671,358,863,479"/>
+<area shape="rect" id="node6" href="$class_s31_1_1_sdc_1_1_test_1_1_remote_device_mock_1_1_mdib_changes_broker.html" title=" " alt="" coords="887,343,1087,494"/>
+<area shape="rect" id="node7" href="$class_s31_1_1_test_1_1_test_mdib_change_listener.html" title="A Mdib change listener used by class S31::Test::TestBase." alt="" coords="1111,299,1338,538"/>
+<area shape="rect" id="node8" href="$class_s31__1_1_1_remote_system_state_handler.html" title="Handles changes of the system state (operating/standBy) of the (only one) connected workplace device." alt="" coords="1363,336,1569,501"/>
+<area shape="rect" id="node9" href="$class_s31__2_1_1_waveform_reader.html" title="Waveform provider for subscribed waveforms." alt="" coords="1594,145,1805,692"/>
+</map>

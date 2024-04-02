@@ -1,0 +1,6 @@
+<map id="S31::Sdc::Impl::DiscoveryProvider" name="S31::Sdc::Impl::DiscoveryProvider">
+<area shape="rect" id="node1" title="DPWS discovery of remote devices." alt="" coords="236,248,456,516"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_i_dpws_discovery_observer.html" title="Observer interface for discovered devices." alt="" coords="5,42,212,163"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_discovery_provider.html" title="Central access point to discover devices on the SDC network." alt="" coords="236,5,456,200"/>
+<area shape="rect" id="node4" title=" " alt="" coords="481,57,689,149"/>
+</map>

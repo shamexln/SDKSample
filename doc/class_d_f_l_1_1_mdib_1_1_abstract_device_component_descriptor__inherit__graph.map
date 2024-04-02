@@ -1,0 +1,11 @@
+<map id="DFL::Mdib::AbstractDeviceComponentDescriptor" name="DFL::Mdib::AbstractDeviceComponentDescriptor">
+<area shape="rect" id="node1" title="Describes a basic device component." alt="" coords="607,204,861,340"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_battery_descriptor.html" title="For battery&#45;powered devices, static battery information can be contained in this object." alt="" coords="5,395,196,561"/>
+<area shape="rect" id="node4" href="$class_d_f_l_1_1_mdib_1_1_channel_descriptor.html" title="Describes the static part of a Channel." alt="" coords="220,425,416,531"/>
+<area shape="rect" id="node5" href="$class_d_f_l_1_1_mdib_1_1_clock_descriptor.html" title="Describes the static capabilities of an Mds regarding date/time handling and synchronization." alt="" coords="440,403,623,553"/>
+<area shape="rect" id="node6" href="$class_d_f_l_1_1_mdib_1_1_mds_descriptor.html" title="Describes the static part of an Mds." alt="" coords="647,388,821,568"/>
+<area shape="rect" id="node7" href="$class_d_f_l_1_1_mdib_1_1_sco_descriptor.html" title="Describes the static part of the Sco." alt="" coords="845,425,1017,531"/>
+<area shape="rect" id="node8" href="$class_d_f_l_1_1_mdib_1_1_system_context_descriptor.html" title="Describes the static part of a SystemContext." alt="" coords="1041,410,1232,546"/>
+<area shape="rect" id="node9" href="$class_d_f_l_1_1_mdib_1_1_vmd_descriptor.html" title="Describes the static part of a Vmd." alt="" coords="1257,417,1433,539"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_abstract_descriptor.html" title="Defines foundational meta information of any object that is included in the descriptive part of the M..." alt="" coords="635,5,833,156"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="S31::Sdc::Impl::BasicConnectionPolicy" name="S31::Sdc::Impl::BasicConnectionPolicy">
+<area shape="rect" id="node1" title="A basic connection policy." alt="" coords="121,336,336,619"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_impl_1_1_disco_connection_policy.html" title="A connection policy specialized for DiscoveryProxy connections." alt="" coords="5,696,220,803"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_sdc_1_1_impl_1_1_sdc_connection_policy.html" title="A connection policy specialized for Sdc connections." alt="" coords="244,667,448,832"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_connection_policy.html" title="Interface to customize various policies for Https connections." alt="" coords="138,5,319,288"/>
+</map>

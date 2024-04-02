@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::SetValueOperationState" name="DFL::Mdib::SetValueOperationState">
+<area shape="rect" id="node1" title="Defines the volatile part of a SetValueOperation." alt="" coords="5,175,204,296"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_abstract_operation_state.html" title="State of an operation that is exposed on the Sco." alt="" coords="7,5,202,127"/>
+</map>

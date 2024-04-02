@@ -1,0 +1,5 @@
+<map id="S31::Sdc::DiscoveryProvider" name="S31::Sdc::DiscoveryProvider">
+<area shape="rect" id="node1" title="Central access point to discover devices on the SDC network." alt="" coords="5,175,225,369"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_impl_1_1_discovery_provider.html" title="DPWS discovery of remote devices." alt="" coords="5,417,225,685"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_observer_1_1_subject.html" title="Interface for generic observable container." alt="" coords="40,5,191,127"/>
+</map>

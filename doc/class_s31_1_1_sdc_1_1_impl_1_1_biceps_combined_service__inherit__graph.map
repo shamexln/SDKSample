@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::BicepsCombinedService" name="S31::Sdc::Impl::BicepsCombinedService">
+<area shape="rect" id="node1" title="Implementation of all high priority Biceps services combined into one hosted endpoint." alt="" coords="5,145,220,296"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_i_web_service.html" title="Interface for SOAP web services." alt="" coords="19,5,207,97"/>
+</map>

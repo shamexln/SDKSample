@@ -1,0 +1,9 @@
+<map id="S31::Sdc::Impl::Gsoap::ParticipantMapper" name="S31::Sdc::Impl::Gsoap::ParticipantMapper">
+<area shape="rect" id="node1" title="Combines mapping functions from the specific participant mappers." alt="" coords="677,1348,843,1587"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_gsoap_1_1_participant_metric_mapper.html" title="Maps all metric classes from the BICEPS participant model." alt="" coords="5,365,248,941"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_impl_1_1_gsoap_1_1_participant_component_mapper.html" title="Maps all component classes from the BICEPS participant model." alt="" coords="273,504,498,801"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_sdc_1_1_impl_1_1_gsoap_1_1_participant_alert_mapper.html" title="Maps AlertSystem, AlertCondition, LimitAlertCondition and AlertSignal Descriptor and State classes to..." alt="" coords="523,5,749,1300"/>
+<area shape="rect" id="node5" href="$class_s31_1_1_sdc_1_1_impl_1_1_gsoap_1_1_participant_context_mapper.html" title="Mapping between Gsoap and Mdib contexts (that is: patient &amp; location)." alt="" coords="774,533,997,772"/>
+<area shape="rect" id="node6" href="$class_s31_1_1_sdc_1_1_impl_1_1_gsoap_1_1_participant_operation_mapper.html" title="Maps all operation classes from the BICEPS participant model." alt="" coords="1021,489,1243,816"/>
+<area shape="rect" id="node7" href="$class_s31_1_1_sdc_1_1_impl_1_1_gsoap_1_1_participant_base_mapper.html" title="Maps all base classes from the BICEPS participant model." alt="" coords="1267,497,1501,809"/>
+</map>

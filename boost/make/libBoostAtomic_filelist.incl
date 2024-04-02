@@ -1,0 +1,6 @@
+BOOST_ATOMIC_SRC_DIR = $(boost_DIR)/libs/atomic/src
+
+# SOURCE_LIST
+BOOST_ATOMIC_SRC	 = $(addprefix $(BOOST_ATOMIC_SRC_DIR)/, \
+	lockpool.cpp \
+)

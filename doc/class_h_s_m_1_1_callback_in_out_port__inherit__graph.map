@@ -1,0 +1,5 @@
+<map id="HSM::CallbackInOutPort&lt; InType, OutType, replFactor &gt;" name="HSM::CallbackInOutPort&lt; InType, OutType, replFactor &gt;">
+<area shape="rect" id="node1" title="Aggregates a CallbackInPort and an Outport (optionally with a replication factor greater than 1) to a..." alt="" coords="101,483,307,633"/>
+<area shape="rect" id="node2" href="$class_h_s_m_1_1_sender_port.html" title=" " alt="" coords="5,108,195,332"/>
+<area shape="rect" id="node3" href="$class_h_s_m_1_1_callback_in_port.html" title=" " alt="" coords="219,5,397,435"/>
+</map>

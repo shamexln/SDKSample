@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::Test::RecurringTask" name="DFL::Mdib::Test::RecurringTask">
+<area shape="rect" id="node1" title="A task that is executed again &amp; again." alt="" coords="11,5,218,97"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_test_1_1_waveform_changer.html" title="A recurring task that changes waves in the given Mdib." alt="" coords="5,145,224,384"/>
+</map>

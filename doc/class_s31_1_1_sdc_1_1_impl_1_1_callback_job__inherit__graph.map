@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::CallbackJob" name="S31::Sdc::Impl::CallbackJob">
+<area shape="rect" id="node1" title="Job that executes a plain function callback." alt="" coords="5,175,192,296"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_job.html" title="Interface for S31 jobs that have to be executed asynchronously from the S31::Sdc::IDispatcher (S31 ma..." alt="" coords="47,5,151,127"/>
+</map>

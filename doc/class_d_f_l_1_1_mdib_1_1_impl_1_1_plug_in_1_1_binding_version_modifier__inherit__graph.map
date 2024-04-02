@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::Impl::PlugIn::BindingVersionModifier" name="DFL::Mdib::Impl::PlugIn::BindingVersionModifier">
+<area shape="rect" id="node1" title="Updates BindingMdibVersion, UnbindingMdibVersion, BindingStartTime, and BindingEndTime if not set." alt="" coords="5,204,225,311"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_plug_in_1_1_modifier.html" title="Base class for MdibChangeSet modify operations." alt="" coords="5,5,225,156"/>
+</map>

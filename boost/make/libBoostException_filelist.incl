@@ -1,0 +1,6 @@
+BOOST_EXCEPTION_SRC_DIR = $(boost_DIR)/libs/exception/src
+
+# SOURCE_LIST
+BOOST_EXCEPTION_SRC	 = $(addprefix $(BOOST_EXCEPTION_SRC_DIR)/, \
+	clone_current_exception_non_intrusive.cpp \
+)

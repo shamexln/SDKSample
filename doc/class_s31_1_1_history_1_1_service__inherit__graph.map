@@ -1,0 +1,7 @@
+<map id="S31::History::Service" name="S31::History::Service">
+<area shape="rect" id="node1" title="Abstract interface of the history service." alt="" coords="139,160,283,237"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_history_1_1_in_memory_history_service.html" title="In memory (RAM) history service implementation." alt="" coords="9,285,209,451"/>
+<area shape="rect" id="node5" href="$class_s31_1_1_history_1_1_test_1_1_dummy_service.html" title="Dummy for test purposes." alt="" coords="233,293,395,443"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_history_1_1_request_interface.html" title="Request interface for a history service implementation." alt="" coords="5,13,204,105"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_history_1_1_store_interface.html" title="Insert/write interface for a history service implementation." alt="" coords="228,5,411,112"/>
+</map>

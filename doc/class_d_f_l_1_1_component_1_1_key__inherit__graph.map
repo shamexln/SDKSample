@@ -1,0 +1,4 @@
+<map id="DFL::Component::Key" name="DFL::Component::Key">
+<area shape="rect" id="node1" title="Combines kind and instance of a component to identify a unique instance of a component." alt="" coords="23,5,173,215"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_component_1_1_static_key.html" title="Static key which holds a compiletime kind and compiletime instance value of a component." alt="" coords="5,263,191,399"/>
+</map>

@@ -1,0 +1,18 @@
+==============================================================================
+=== date and time   28 September 2016/17:09
+=== make parameters --no-builtin-rules -f c:\tools\boost\1.61.0_draeger02\make\make_VxWorks.mk SHELL=C:\tools\msys2\1.0c\usr\bin\sh.exe PLATFORM=VxWorks -j7 all
+=== Makefile        c:\tools\boost\1.61.0_draeger02\make\make_VxWorks.mk
+=== Target          -j7 all
+=== Host            DMAID2042.corp.draeger.global
+=== Domain\User     CORP\darmto
+=== ViewRoot        d:\develop\git_projects\s32
+=== REL_VIEW_ROOT   d:/develop/git_projects/s32
+=== Platform        VxWorks
+=== MAKE_PARALLEL_BUILD_OPTION -j
+=== MAKE_VIEW_ROOT   d:/develop/git_projects/s32
+=== MAKE_VIEW_ROOT_B d:\develop\git_projects\s32
+=== MAKE_SYSTEM      gmake
+=== MAKE_PARAM       -J 8 BUILD_VERSION_TOOL=GIT
+==============================================================================
+=== date and time   28 September 2016/17:09 ===
+Total time for this build 0:00:05 (5 seconds) return code: 0

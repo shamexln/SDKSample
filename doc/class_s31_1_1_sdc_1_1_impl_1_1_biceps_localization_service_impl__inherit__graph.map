@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::BicepsLocalizationServiceImpl" name="S31::Sdc::Impl::BicepsLocalizationServiceImpl">
+<area shape="rect" id="node1" title="Implementation of BicepsGetService. A separate class was created for unit testing." alt="" coords="5,219,231,413"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_biceps_base_service.html" title="Base implementation of Web Services for BICEPS." alt="" coords="17,5,219,171"/>
+</map>

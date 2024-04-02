@@ -1,0 +1,6 @@
+<map id="S31::ExternalFailure" name="S31::ExternalFailure">
+<area shape="rect" id="node1" title="Base type for all kind of failures triggered by remote (invalid data)." alt="" coords="129,175,269,252"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_external_data_mapping_failed.html" title="Shall be thrown when external data (from remote) cannot be mapped." alt="" coords="5,300,183,392"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_external_must_understand_extension_unknown.html" title="Shall be thrown when external data contains unknown must understand extensions." alt="" coords="207,300,403,392"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_exception.html" title="S31 base exception for all exceptions thrown in S31." alt="" coords="144,5,255,127"/>
+</map>

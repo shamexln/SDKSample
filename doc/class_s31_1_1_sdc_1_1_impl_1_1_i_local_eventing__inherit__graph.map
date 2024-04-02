@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::ILocalEventing" name="S31::Sdc::Impl::ILocalEventing">
+<area shape="rect" id="node1" title="Boundary interface for outgoing network events (e.g., firing WS&#45;Eventing messages)." alt="" coords="5,5,256,185"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_local_device.html" title="This class implements all stuff to act as a SDC device." alt="" coords="21,233,241,765"/>
+</map>

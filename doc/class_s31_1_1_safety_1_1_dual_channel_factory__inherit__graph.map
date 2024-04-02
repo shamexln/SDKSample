@@ -1,0 +1,5 @@
+<map id="S31::Safety::DualChannelFactory" name="S31::Safety::DualChannelFactory">
+<area shape="rect" id="node1" title="Interface to create dual channel comparators." alt="" coords="153,5,323,112"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_mock_audio_pause_dual_channel.html" title="Mock implementation of a dual&#45;channel factory that is used by unit test instances." alt="" coords="5,167,233,274"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_safety_1_1_test_1_1_dual_channel_factory_mock.html" title="Mock implementation for S31::Safety::DualChannelFactory." alt="" coords="257,160,456,281"/>
+</map>

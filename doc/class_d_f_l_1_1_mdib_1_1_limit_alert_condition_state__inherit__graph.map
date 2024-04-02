@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::LimitAlertConditionState" name="DFL::Mdib::LimitAlertConditionState">
+<area shape="rect" id="node1" title="The volatile part a limit alert condition." alt="" coords="11,336,210,516"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_abstract_alert_condition_state.html" title="Common base for AlertConditionState and LimitAlertConditionState." alt="" coords="5,5,216,288"/>
+</map>

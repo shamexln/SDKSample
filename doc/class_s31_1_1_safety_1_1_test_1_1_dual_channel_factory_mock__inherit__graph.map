@@ -1,0 +1,4 @@
+<map id="S31::Safety::Test::DualChannelFactoryMock" name="S31::Safety::Test::DualChannelFactoryMock">
+<area shape="rect" id="node1" title="Mock implementation for S31::Safety::DualChannelFactory." alt="" coords="5,160,204,281"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_safety_1_1_dual_channel_factory.html" title="Interface to create dual channel comparators." alt="" coords="19,5,190,112"/>
+</map>

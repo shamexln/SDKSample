@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::DpwsSubscriptionManager" name="S31::Sdc::Impl::DpwsSubscriptionManager">
+<area shape="rect" id="node1" title="Offers functionality to start and stop subscription monitors of all connected remote devices." alt="" coords="5,5,225,141"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_dpws_subscription_manager_impl.html" title="Default implementation of DpwsSubscriptionManager." alt="" coords="5,189,225,472"/>
+</map>

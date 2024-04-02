@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::HistoryEventingPlugin" name="S31::Sdc::Impl::HistoryEventingPlugin">
+<area shape="rect" id="node1" title="WS&#45;Eventing device plug&#45;in for history service." alt="" coords="5,160,212,296"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_i_hosted_service_plugin.html" title="Interface that plug&#45;ins have to implement for extension." alt="" coords="7,5,210,112"/>
+</map>

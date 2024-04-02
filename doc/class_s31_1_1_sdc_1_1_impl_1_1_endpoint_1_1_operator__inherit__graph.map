@@ -1,0 +1,6 @@
+<map id="S31::Sdc::Impl::Endpoint::Operator&lt; T_Result &gt;" name="S31::Sdc::Impl::Endpoint::Operator&lt; T_Result &gt;">
+<area shape="rect" id="node1" title="Manages reception of job responses and retries to send requests on failure." alt="" coords="191,189,401,413"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_utils_1_1_untyped_outcome_handler.html" title="A generalized handler interface that requires no result data type." alt="" coords="5,27,200,119"/>
+<area shape="rect" id="node3" title=" " alt="" coords="224,20,368,127"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_utils_1_1_outcome_consumer.html" title=" " alt="" coords="393,5,591,141"/>
+</map>

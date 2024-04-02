@@ -1,0 +1,6 @@
+<map id="DFL::Mdib::CodedValue" name="DFL::Mdib::CodedValue">
+<area shape="rect" id="node1" title="Code to identify the concept (semantic) of an object." alt="" coords="179,248,343,531"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_mdib_1_1_annotation.html" title="Annotation of a metric state value." alt="" coords="5,674,260,971"/>
+<area shape="rect" id="node4" href="$class_d_f_l_1_1_mdib_1_1_unit.html" title="Unit specialization for CodedValues." alt="" coords="285,579,495,1067"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_impl_1_1_has_extensions.html" title="Base type for supporting the BICEPS extension model." alt="" coords="155,5,366,200"/>
+</map>

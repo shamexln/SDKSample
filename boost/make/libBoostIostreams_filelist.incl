@@ -1,0 +1,10 @@
+BOOST_IOSTREAMS_SRC_DIR = $(boost_DIR)/libs/iostreams/src
+
+# SOURCE_LIST
+BOOST_IOSTREAMS_SRC	 = $(addprefix $(BOOST_IOSTREAMS_SRC_DIR)/, \
+	bzip2.cpp \
+	file_descriptor.cpp \
+	gzip.cpp \
+	mapped_file.cpp \
+	zlib.cpp \
+	)

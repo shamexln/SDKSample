@@ -1,0 +1,5 @@
+<map id="HSM::TrivialStateMachine" name="HSM::TrivialStateMachine">
+<area shape="rect" id="node1" title="Base class for event handlers consisting only of one state." alt="" coords="15,351,186,531"/>
+<area shape="rect" id="node3" href="$class_h_s_m_1_1_unit_test_1_1_mock_trivial_state_machine.html" title=" " alt="" coords="7,579,194,715"/>
+<area shape="rect" id="node2" href="$class_h_s_m_1_1_state_machine_common.html" title="Base class with common behaviour of all state machine classes." alt="" coords="5,5,196,303"/>
+</map>

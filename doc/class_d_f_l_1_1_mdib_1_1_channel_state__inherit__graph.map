@@ -1,0 +1,4 @@
+<map id="DFL::Mdib::ChannelState" name="DFL::Mdib::ChannelState">
+<area shape="rect" id="node1" title="Describes the volatile part of a Channel." alt="" coords="34,351,202,443"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_mdib_1_1_abstract_device_component_state.html" title="State of a component that is part of an Mds." alt="" coords="5,5,231,303"/>
+</map>

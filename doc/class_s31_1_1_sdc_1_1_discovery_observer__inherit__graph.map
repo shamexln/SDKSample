@@ -1,0 +1,4 @@
+<map id="S31::Sdc::DiscoveryObserver" name="S31::Sdc::DiscoveryObserver">
+<area shape="rect" id="node1" title="Observer to receive information about remote devices." alt="" coords="7,5,198,112"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_location_context_discovery_tracker.html" title="Tracks devices on a location using WS&#45;Discovery." alt="" coords="5,160,200,472"/>
+</map>

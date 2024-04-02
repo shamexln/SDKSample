@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::BicepsClient" name="S31::Sdc::Impl::BicepsClient">
+<area shape="rect" id="node1" title="Client is the central access point in order to discover and connect remote SDC devices." alt="" coords="5,189,205,384"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_client.html" title="Client is the central access point in order to discover and connect remote SDC devices." alt="" coords="19,5,192,141"/>
+</map>

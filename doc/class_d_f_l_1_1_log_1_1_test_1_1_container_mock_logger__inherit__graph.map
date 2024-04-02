@@ -1,0 +1,4 @@
+<map id="DFL::Log::Test::ContainerMockLogger" name="DFL::Log::Test::ContainerMockLogger">
+<area shape="rect" id="node1" title="Provides a logger which can be injected into a ctor or function and stores all logged messages in a c..." alt="" coords="5,365,176,472"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_log_1_1_logger.html" title="Keeps a pipe with filter to process a message." alt="" coords="29,5,152,317"/>
+</map>

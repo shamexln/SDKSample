@@ -1,0 +1,8 @@
+<map id="S31::Sdc::Impl::IncomingHttpRequest" name="S31::Sdc::Impl::IncomingHttpRequest">
+<area shape="rect" id="node1" title="Abstract base for HTTP requests." alt="" coords="263,336,438,531"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_sdc_1_1_impl_1_1_closing_incoming_http_request.html" title=" " alt="" coords="5,586,216,707"/>
+<area shape="rect" id="node5" href="$class_s31_1_1_sdc_1_1_impl_1_1_following_incoming_http_request.html" title=" " alt="" coords="241,593,461,700"/>
+<area shape="rect" id="node6" href="$class_s31_1_1_sdc_1_1_impl_1_1_initial_incoming_http_request.html" title=" " alt="" coords="485,579,683,715"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_incoming_network_request.html" title="Abstract base class for an incoming network request." alt="" coords="165,5,363,288"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_job.html" title="Interface for S31 jobs that have to be executed asynchronously from the S31::Sdc::IDispatcher (S31 ma..." alt="" coords="387,86,491,207"/>
+</map>

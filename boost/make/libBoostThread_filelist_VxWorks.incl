@@ -1,0 +1,8 @@
+BOOST_THREAD_SRC_DIR = $(boost_DIR)/libs/thread/src
+
+# SOURCE_LIST
+BOOST_THREAD_SRC	 = $(addprefix $(BOOST_THREAD_SRC_DIR)/, \
+	tss_null.cpp \
+	pthread/once.cpp \
+	pthread/thread.cpp \
+	)

@@ -1,0 +1,6 @@
+BOOST_SYSTEM_SRC_DIR = $(boost_DIR)/libs/system/src
+
+# SOURCE_LIST
+BOOST_SYSTEM_SRC	 = $(addprefix $(BOOST_SYSTEM_SRC_DIR)/, \
+	error_code.cpp \
+	)

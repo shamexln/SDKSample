@@ -1,0 +1,4 @@
+<map id="DFL::Log::ErrorType" name="DFL::Log::ErrorType">
+<area shape="rect" id="node1" title="Type which represents the severity error." alt="" coords="5,233,144,311"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_log_1_1_severity.html" title="Base class for concrete severity type classes." alt="" coords="10,5,139,185"/>
+</map>

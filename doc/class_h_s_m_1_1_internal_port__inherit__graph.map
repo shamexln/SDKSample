@@ -1,0 +1,4 @@
+<map id="HSM::InternalPort&lt; T &gt;" name="HSM::InternalPort&lt; T &gt;">
+<area shape="rect" id="node1" title="Special port which delivers events to the internal event queue of the active object." alt="" coords="5,204,161,355"/>
+<area shape="rect" id="node2" href="$class_h_s_m_1_1_in_out_port.html" title=" " alt="" coords="15,5,152,156"/>
+</map>

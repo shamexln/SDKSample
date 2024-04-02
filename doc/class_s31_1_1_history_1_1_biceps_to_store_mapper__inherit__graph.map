@@ -1,0 +1,5 @@
+<map id="S31::History::BicepsToStoreMapper" name="S31::History::BicepsToStoreMapper">
+<area shape="rect" id="node1" title="Mapper between BicepsXml and History interfaces for MDIB changes." alt="" coords="120,248,331,443"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_biceps_xml_1_1_xml_report_observer.html" title="Observer interface similar to SubdividedMdibObserver with BICEPS xml changes report." alt="" coords="5,5,216,200"/>
+<area shape="rect" id="node3" href="$class_d_f_l_1_1_observer_1_1_basic_subject.html" title="Generic observable container to enable publish&#45;subscribe for smart pointers." alt="" coords="240,27,443,178"/>
+</map>

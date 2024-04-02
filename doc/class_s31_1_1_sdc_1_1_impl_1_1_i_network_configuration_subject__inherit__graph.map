@@ -1,0 +1,5 @@
+<map id="S31::Sdc::Impl::INetworkConfigurationSubject" name="S31::Sdc::Impl::INetworkConfigurationSubject">
+<area shape="rect" id="node1" title="Allow to observer network configuration changes." alt="" coords="15,189,234,325"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_sdc_1_1_impl_1_1_network_configuration_subject.html" title="Implementation of S31::Sdc::Impl::INetworkConfigurationSubject." alt="" coords="5,373,244,539"/>
+<area shape="rect" id="node2" href="$class_d_f_l_1_1_observer_1_1_subject.html" title="Interface for generic observable container." alt="" coords="13,5,236,141"/>
+</map>

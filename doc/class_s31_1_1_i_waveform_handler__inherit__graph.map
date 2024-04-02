@@ -1,0 +1,6 @@
+<map id="S31::IWaveformHandler" name="S31::IWaveformHandler">
+<area shape="rect" id="node1" title="Interface for the platform worker implementation on S31.x devices." alt="" coords="279,5,436,112"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_test_1_1_mock_waveform_handler.html" title=" " alt="" coords="5,197,224,289"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_test_1_1_waveform_handler_mock.html" title=" " alt="" coords="248,197,467,289"/>
+<area shape="rect" id="node4" href="$class_s31__2_1_1_waveform_handler.html" title="Implementation for the waveform handling in S31.2." alt="" coords="491,160,659,325"/>
+</map>

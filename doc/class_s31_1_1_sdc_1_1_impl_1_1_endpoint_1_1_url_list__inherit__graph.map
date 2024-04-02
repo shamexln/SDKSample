@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::Endpoint::UrlList" name="S31::Sdc::Impl::Endpoint::UrlList">
+<area shape="rect" id="node1" title="Provides a prioritized URL list interface." alt="" coords="5,5,172,141"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_endpoint_1_1_resettable_url_list.html" title="Provides a prioritized URL list implementation with resettable URL lists." alt="" coords="5,189,172,369"/>
+</map>

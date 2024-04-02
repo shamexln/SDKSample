@@ -1,0 +1,5 @@
+<map id="S31::History::StoreInterface" name="S31::History::StoreInterface">
+<area shape="rect" id="node1" title="Insert/write interface for a history service implementation." alt="" coords="139,5,322,112"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_history_1_1_impl_1_1_in_memory_data_store.html" title=" " alt="" coords="5,160,243,545"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_history_1_1_service.html" title="Abstract interface of the history service." alt="" coords="267,314,411,391"/>
+</map>

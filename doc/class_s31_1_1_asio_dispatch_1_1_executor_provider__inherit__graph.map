@@ -1,0 +1,6 @@
+<map id="S31::AsioDispatch::ExecutorProvider" name="S31::AsioDispatch::ExecutorProvider">
+<area shape="rect" id="node1" title="Interface to provide executors which are run by AsioDispatch." alt="" coords="214,5,365,215"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_asio_dispatch_1_1_default_asio_dispatcher.html" title="Implementation of a dispatcher using standard threads." alt="" coords="5,263,184,487"/>
+<area shape="rect" id="node3" href="$class_s31_1_1_asio_dispatch_1_1_s16_asio_dispatcher.html" title="Implementation of a dispatcher using S16 event handler threads." alt="" coords="209,263,370,487"/>
+<area shape="rect" id="node4" href="$class_s31_1_1_asio_dispatch_1_1_test_1_1_dummy_executor_provider.html" title="This class provides a test placeholder for an actual asio dispatcher." alt="" coords="394,307,593,443"/>
+</map>

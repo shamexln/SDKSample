@@ -1,0 +1,4 @@
+<map id="S31::Sdc::Impl::ISocketSelect" name="S31::Sdc::Impl::ISocketSelect">
+<area shape="rect" id="node1" title="Interface to hide the implementation of select() call for testing purposes." alt="" coords="21,5,220,127"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_sdc_1_1_impl_1_1_socket_controller.html" title="Handles BSD socket." alt="" coords="5,175,236,883"/>
+</map>

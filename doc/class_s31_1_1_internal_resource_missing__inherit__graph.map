@@ -1,0 +1,4 @@
+<map id="S31::InternalResourceMissing" name="S31::InternalResourceMissing">
+<area shape="rect" id="node1" title="Shall be thrown when internal resources like scheduling, shared memory, ... are not available." alt="" coords="5,175,200,252"/>
+<area shape="rect" id="node2" href="$class_s31_1_1_exception.html" title="S31 base exception for all exceptions thrown in S31." alt="" coords="47,5,158,127"/>
+</map>
