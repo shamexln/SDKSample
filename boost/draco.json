@@ -1,0 +1,13 @@
+{
+    "version": "0.0.10",
+    "repos": [
+        {
+            "url": "ssh://git@stash.draeger.com:7999/platform/plain.git",
+            "revision": "master"
+        },
+        {
+            "url": "ssh://git@stash.draeger.com:7999/platform/tools.git",
+            "revision": "master"
+        }
+    ]
+}

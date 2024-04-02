@@ -1,0 +1,70 @@
+def escaped_branch_name = "${BRANCH_NAME}".replaceAll('/', '_')
+
+pipeline {
+    libraries {
+       lib('platform_shared_library@493f6e31c1635fb18aeeaaeb035457fbe077c62c')
+    }
+
+    agent none
+
+    options {
+        timestamps()
+        buildDiscarder(logRotator(numToKeepStr: "5"))
+        ansiColor('xterm')
+        timeout(activity: false, time: 120, unit: 'MINUTES')
+        disableConcurrentBuilds()
+        skipStagesAfterUnstable()
+    }
+
+    environment {
+        CTEST_OUTPUT_ON_FAILURE = "1"
+        USER_CHANNEL = "jenkins/${escaped_branch_name}"
+    }
+    stages {
+        stage('Build') {
+            parallel {
+                stage('Win64-RelWithDebInfo') {
+                    agent {
+                        node {
+                            label "windows&&git&&!multijob"
+                            customWorkspace "workspace/${env.JOB_NAME}/.."
+                        }
+                    }
+                    steps {
+                        cleanWs deleteDirs: true,
+                                patterns: [[pattern: 'bld', type: 'INCLUDE']]
+                        bat """call plain/tools/drama.cmd --keep-variable USER_CHANNEL ^
+                                                          --cmake-toolchain Win64 ^
+                                                          boost/draeger ^
+                                                          --target install ^
+                                                          -DCMAKE_BUILD_TYPE=RelWithDebInfo"""
+                    }
+                }
+                stage('VxWorks-RelWithDebInfo') {
+                    agent {
+                        node {
+                            label "linux&&git&&docker&&amd64"
+                        }
+                    }
+                    steps {
+                        cleanWs deleteDirs: true,
+                                patterns: [[pattern: 'bld', type: 'INCLUDE']]
+                        sh '''$(pwd)/plain/tools/drama.sh --cmake-toolchain VxWorks7-Rtp \
+                                                          $(pwd)/boost/draeger \
+                                                          --target install \
+                                                          -DCMAKE_BUILD_TYPE=RelWithDebInfo'''
+                    }
+                }
+            }
+        }
+    }
+    post {
+        always {
+            script {
+                node(null) {
+                    notifyBitbucket()
+                }
+            }
+        }
+    }
+}
